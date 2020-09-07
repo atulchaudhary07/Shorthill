@@ -1,0 +1,1835 @@
+[
+  {
+    "_id": "9d6d91a5491b524669e22f1ed33cea10",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Zee 2 2342KO",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Residential mowers",
+      "description": "The Zee 2 Is The Best Residential Mower In Its Class With Big Engines, Big Decks, And Big Value. No Other Residential Mower Gives You More Muscle For Your Money.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Zee-2-2348KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/zee2-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Stainless-Steel.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Commercial-Forks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/HG-ZT-2800.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Elite-Cutting-System.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FR-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Zee2-Quick-Lift.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "42\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Hydro-Gear® ZT-2800"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "2.4**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "4 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "23 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kohler® 7000"
+      }
+    },
+    "features": [
+      "The Mower With More Muscle For Your Money.",
+      "Stainless Steel",
+      "Commercial Forks",
+      "Hydro-Gear® Zt-2800",
+      "42\", 48\", And 54\" Elite Cutting System",
+      "High Horsepower",
+      "Quick-Lift Lock",
+      "Protects Fuel Tank From Sun And Impact Damage.",
+      "Greaseable And Lifetime Warranty Against Breakage.",
+      "Smooth Operation And Fully Serviceable.",
+      "Formed And Welded 10 Ga Deck Shell.",
+      "A 23 Horsepower Engine From Kawasaki® Or Kohler® To Power You At Up To 3.1 Acres Per Hour.",
+      "Allows You To Quickly Raise The Deck To Avoid Objects And Locks The Deck In Travel Height For Transporting And Storing.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Zee-2-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/residential/zee-2/"
+  },
+  {
+    "_id": "9922b606798096ea7241d56f12e182ff",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Zee 2 2348KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Residential mowers",
+      "description": "The Zee 2 Is The Best Residential Mower In Its Class With Big Engines, Big Decks, And Big Value. No Other Residential Mower Gives You More Muscle For Your Money.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Zee-2-2348KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/zee2-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Stainless-Steel.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Commercial-Forks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/HG-ZT-2800.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Elite-Cutting-System.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FR-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Zee2-Quick-Lift.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "48\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Hydro-Gear® ZT-2800"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "2.7**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "4 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "23 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FR"
+      }
+    },
+    "features": [
+      "The Mower With More Muscle For Your Money.",
+      "Stainless Steel",
+      "Commercial Forks",
+      "Hydro-Gear® Zt-2800",
+      "42\", 48\", And 54\" Elite Cutting System",
+      "High Horsepower",
+      "Quick-Lift Lock",
+      "Protects Fuel Tank From Sun And Impact Damage.",
+      "Greaseable And Lifetime Warranty Against Breakage.",
+      "Smooth Operation And Fully Serviceable.",
+      "Formed And Welded 10 Ga Deck Shell.",
+      "A 23 Horsepower Engine From Kawasaki® Or Kohler® To Power You At Up To 3.1 Acres Per Hour.",
+      "Allows You To Quickly Raise The Deck To Avoid Objects And Locks The Deck In Travel Height For Transporting And Storing.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Zee-2-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/residential/zee-2/"
+  },
+  {
+    "_id": "12c8dcd3abbd26f43856e5027d4c87cf",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Zee 2 2354KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Residential mowers",
+      "description": "The Zee 2 Is The Best Residential Mower In Its Class With Big Engines, Big Decks, And Big Value. No Other Residential Mower Gives You More Muscle For Your Money.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Zee-2-2348KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/zee2-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Stainless-Steel.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Commercial-Forks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/HG-ZT-2800.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Elite-Cutting-System.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FR-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Zee2-Quick-Lift.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "54\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Hydro-Gear® ZT-2800"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "3.1**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "4 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "23 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FR"
+      }
+    },
+    "features": [
+      "The Mower With More Muscle For Your Money.",
+      "Stainless Steel",
+      "Commercial Forks",
+      "Hydro-Gear® Zt-2800",
+      "42\", 48\", And 54\" Elite Cutting System",
+      "High Horsepower",
+      "Quick-Lift Lock",
+      "Protects Fuel Tank From Sun And Impact Damage.",
+      "Greaseable And Lifetime Warranty Against Breakage.",
+      "Smooth Operation And Fully Serviceable.",
+      "Formed And Welded 10 Ga Deck Shell.",
+      "A 23 Horsepower Engine From Kawasaki® Or Kohler® To Power You At Up To 3.1 Acres Per Hour.",
+      "Allows You To Quickly Raise The Deck To Avoid Objects And Locks The Deck In Travel Height For Transporting And Storing.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Zee-2-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/residential/zee-2/"
+  },
+  {
+    "_id": "b7c51aa22738efcc00997c70b736492b",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "BlackHawk 2248KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The Blackhawk Provides The Ultimate Mowing Experience With Superior Value, Advanced Operator Controls, Commercial Grade Components, And Unmatched Performance.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-2248KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/blackhawk-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Parker-HTE.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Peer-Spindle.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FS-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-Seat.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "48\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTE"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "3.4**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "6.8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "22 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FS"
+      }
+    },
+    "features": [
+      "Redefine Your Mowing Experience",
+      "Ocdc",
+      "Parker® Hte",
+      "Peer® Spindles",
+      "48\", 54\", And 60\" Decks",
+      "Proven Power",
+      "Total Comfort",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Smooth Steering And 1000 Hour Oil Change Intervals.",
+      "Maintenance Free With Contamination Exclusion Technology.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease",
+      "Equipped With An Industry Preferred Kawasaki® Fs Engine Up To 24 Horsepower For Trusted And Reliable Performance.",
+      "The High-Back, Padded, And Over-Sized Boulstered Seat Hugs Your Torso For Ultimate Comfort.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-BlackHawk-TS-v3.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/blackhawk/"
+  },
+  {
+    "_id": "cd1e6ee8032a885c471372e2b0dbbe81",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "BlackHawk 2454KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The Blackhawk Provides The Ultimate Mowing Experience With Superior Value, Advanced Operator Controls, Commercial Grade Components, And Unmatched Performance.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-2248KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/blackhawk-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Parker-HTE.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Peer-Spindle.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FS-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-Seat.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "54\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTE"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "3.9**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "6.8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "24 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FS"
+      }
+    },
+    "features": [
+      "Redefine Your Mowing Experience",
+      "Ocdc",
+      "Parker® Hte",
+      "Peer® Spindles",
+      "48\", 54\", And 60\" Decks",
+      "Proven Power",
+      "Total Comfort",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Smooth Steering And 1000 Hour Oil Change Intervals.",
+      "Maintenance Free With Contamination Exclusion Technology.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease",
+      "Equipped With An Industry Preferred Kawasaki® Fs Engine Up To 24 Horsepower For Trusted And Reliable Performance.",
+      "The High-Back, Padded, And Over-Sized Boulstered Seat Hugs Your Torso For Ultimate Comfort.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-BlackHawk-TS-v3.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/blackhawk/"
+  },
+  {
+    "_id": "09a6d39ab7c5cb627bb6f18dfcd999b6",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "BlackHawk 2460KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The Blackhawk Provides The Ultimate Mowing Experience With Superior Value, Advanced Operator Controls, Commercial Grade Components, And Unmatched Performance.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-2248KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/blackhawk-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Parker-HTE.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Peer-Spindle.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FS-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-Seat.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "60\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTE"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "4.3**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "6.8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "24 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FS"
+      }
+    },
+    "features": [
+      "Redefine Your Mowing Experience",
+      "Ocdc",
+      "Parker® Hte",
+      "Peer® Spindles",
+      "48\", 54\", And 60\" Decks",
+      "Proven Power",
+      "Total Comfort",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Smooth Steering And 1000 Hour Oil Change Intervals.",
+      "Maintenance Free With Contamination Exclusion Technology.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease",
+      "Equipped With An Industry Preferred Kawasaki® Fs Engine Up To 24 Horsepower For Trusted And Reliable Performance.",
+      "The High-Back, Padded, And Over-Sized Boulstered Seat Hugs Your Torso For Ultimate Comfort.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-BlackHawk-TS-v3.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/blackhawk/"
+  },
+  {
+    "_id": "0667d7d1bb42285f6845690294d90ee8",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "BlackHawk HP 2454KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The Blackhawk Hp Provides The Superior Mowing Experience With Advanced Operator Controls, Commercial Grade Components, And Unmatched Performance And Comfort.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-2460KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/blackhawkhp-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/InCommand-Console.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Parker-HTE.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BHHP-Suspension-Seat.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-730-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "54\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTJ"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "4.3**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "6.8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "23.5 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Superior Mowing Experience With Unmatched Performance",
+      "Incommand Console",
+      "Ocdc",
+      "Parker® Htj",
+      "Suspension Seat",
+      "54\" And 60\" Decks",
+      "Proven Power",
+      "Keyless Ignition, \"Soft Start\" Clutch Engagement, And More.",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Smooth Steering And 1000 Hour Oil Change Intervals.",
+      "Full Suspension For Ultimate Comfort All Day Long.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease.",
+      "Equipped With The Industry Preferred Kawasaki® Fx And Kohler® Efi Engines For Trusted Reliability And Performance.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-BlackHawk-HP-TS-v3.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/blackhawk-hp/"
+  },
+  {
+    "_id": "0c30a6a86793b409c0a92ee6e8a0c13e",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "BlackHawk HP 2460KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The Blackhawk Hp Provides The Superior Mowing Experience With Advanced Operator Controls, Commercial Grade Components, And Unmatched Performance And Comfort.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-2460KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/blackhawkhp-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/InCommand-Console.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BH-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Parker-HTE.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BHHP-Suspension-Seat.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-730-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "60\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTJ"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "4.8**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "6.8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "23.5 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Superior Mowing Experience With Unmatched Performance",
+      "Incommand Console",
+      "Ocdc",
+      "Parker® Htj",
+      "Suspension Seat",
+      "54\" And 60\" Decks",
+      "Proven Power",
+      "Keyless Ignition, \"Soft Start\" Clutch Engagement, And More.",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Smooth Steering And 1000 Hour Oil Change Intervals.",
+      "Full Suspension For Ultimate Comfort All Day Long.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease.",
+      "Equipped With The Industry Preferred Kawasaki® Fx And Kohler® Efi Engines For Trusted Reliability And Performance.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-BlackHawk-HP-TS-v3.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/blackhawk-hp/"
+  },
+  {
+    "_id": "9ffe2f98e795e428d11fce63462d98b1",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Eagle 2754KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The New Eagle Is Here And Ready To Take On Any Job At Hand. Loaded With Commercial Features, The Eagle Delivers More Speed, Power, And Performance To Maintain Your Land.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-2754KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/silvereagle-white-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Eagle-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/InCommand-eagle.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Parker-HTG.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-850V-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BHHP-Suspension-Seat.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "54\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTG® 14cc"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "5.2**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "27 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Ladies And Gentlemen, The Eagle Has Landed.",
+      "Ocdc",
+      "Incommand Console",
+      "Parker Htg",
+      "54\" And 60\" Decks",
+      "Proven Power",
+      "Enhanced Comfort",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Keyless Ignition, Softstart Clutch Engagement, And More .",
+      "Efficient Transmissions With 1,000 Hour Oil Change Intervals.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease.",
+      "Equipped With An Industry Preferred 27 Horsepower Kawasaki® Fx Engine For Trusted And Reliable Performance.",
+      "Full Suspension With A Padded Design And Iso Mounted Platform Provides Ultimate Comfort.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Eagle-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/eagle/"
+  },
+  {
+    "_id": "5c842d205fb06834c516906ec3ac5eb8",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Eagle 2760KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The New Eagle Is Here And Ready To Take On Any Job At Hand. Loaded With Commercial Features, The Eagle Delivers More Speed, Power, And Performance To Maintain Your Land.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-2754KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/silvereagle-white-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Eagle-OCDC.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/InCommand-eagle.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Parker-HTG.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-850V-Engine.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BHHP-Suspension-Seat.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "60\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTG® 14cc"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "5.8**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "27 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Ladies And Gentlemen, The Eagle Has Landed.",
+      "Ocdc",
+      "Incommand Console",
+      "Parker Htg",
+      "54\" And 60\" Decks",
+      "Proven Power",
+      "Enhanced Comfort",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Keyless Ignition, Softstart Clutch Engagement, And More .",
+      "Efficient Transmissions With 1,000 Hour Oil Change Intervals.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease.",
+      "Equipped With An Industry Preferred 27 Horsepower Kawasaki® Fx Engine For Trusted And Reliable Performance.",
+      "Full Suspension With A Padded Design And Iso Mounted Platform Provides Ultimate Comfort.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Eagle-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/eagle/"
+  },
+  {
+    "_id": "ea4a8fe7cc552ab0db0573fe89931e25",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Eagle HP 3160KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The New Eagle Hp Provides The Ultimate Mowing Experience With Unmatched Combination Of Speed, Power, Performance, Advanced Operator Controls, And Comfort.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-HP-3160KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/eagleHP-text-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/SpringerForks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/OCDC-eagle-hp.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Parker-HTG.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-HP-Suspensions-Seat.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-HP-KW-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "60\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTG® 16cc"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "6.7**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "10 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "31 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "The Ultimate Mowing Experience.",
+      "Springer Forks",
+      "Ocdc",
+      "Parker Htg",
+      "Suspension Seat",
+      "60\" And 72\" Decks",
+      "Pure Power",
+      "Help Absorb Rough Terrain And Provide Smoother Ride.",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Efficient Transmissions With 1,000 Hour Oil Change Intervals.",
+      "High Back, Padded Armrests, And Iso Mounted Platform.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease.",
+      "Equipped With The Industry Preferred Kawasaki® Fx Or Kohler® Efi Engines Up To 35 Horsepower For Trusted Performance And Reliability.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Eagle-HP-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/eagle-hp/"
+  },
+  {
+    "_id": "e3fba45a2ccdc1cf4bf4419248988817",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Eagle HP 3572KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Commercial mowers",
+      "description": "The New Eagle Hp Provides The Ultimate Mowing Experience With Unmatched Combination Of Speed, Power, Performance, Advanced Operator Controls, And Comfort.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-HP-3160KW-1.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/eagleHP-text-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/SpringerForks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/OCDC-eagle-hp.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Parker-HTG.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-HP-Suspensions-Seat.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/BlackHawk-Eagle-Deck.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Eagle-HP-KW-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "72\""
+      },
+      "transaxle": {
+        "label": "Transaxle",
+        "desc": "Parker HTG® 16cc"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "8.1**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "10 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "35 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "The Ultimate Mowing Experience.",
+      "Springer Forks",
+      "Ocdc",
+      "Parker Htg",
+      "Suspension Seat",
+      "60\" And 72\" Decks",
+      "Pure Power",
+      "Help Absorb Rough Terrain And Provide Smoother Ride.",
+      "Foot-Operated To Keep Your Hands On The Steering Levers.",
+      "Efficient Transmissions With 1,000 Hour Oil Change Intervals.",
+      "High Back, Padded Armrests, And Iso Mounted Platform.",
+      "Deep 7 Gauge Shell To Tackle Deep Grass With Ease.",
+      "Equipped With The Industry Preferred Kawasaki® Fx Or Kohler® Efi Engines Up To 35 Horsepower For Trusted Performance And Reliability.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Eagle-HP-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/commercial/eagle-hp/"
+  },
+  {
+    "_id": "eee35dfc80fdc1f088450a8ceaf3f9c2",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Classic 2750KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "The Classic Is The Ultimate Mowing Machine With The Perfect Combination Of Commercial Quality With Industrial Features.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Classic-3160KW-e1594145119371-a.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/classic-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/OCDC-1.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/elite_x.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "50\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 16cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG280"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "4.8*"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "27 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Power Through Commercial Cuts Quicker And Easier.",
+      "High Performance Package",
+      "Ocdc",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "50\", 60\", And 72\" Elite X Deck",
+      "Power And More Power",
+      "Comes Standard On Select Models.",
+      "Open And Close The Discharge Chute On Command",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Handles All Grass Types In Any Situation.",
+      "Powered By Industry Preferred Kawasaki® Engines With Options Up To 35 Horsepower To Tackle Through The Tough Jobs With Ease.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Classic-TS-v4.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/classic/"
+  },
+  {
+    "_id": "8dfa18609fd2755c77fce72942489202",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Classic 2760KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "The Classic Is The Ultimate Mowing Machine With The Perfect Combination Of Commercial Quality With Industrial Features.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Classic-3160KW-e1594145119371-a.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/classic-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/OCDC-1.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/elite_x.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "60\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 16cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG280"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "5.8*"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "8 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "27 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Power Through Commercial Cuts Quicker And Easier.",
+      "High Performance Package",
+      "Ocdc",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "50\", 60\", And 72\" Elite X Deck",
+      "Power And More Power",
+      "Comes Standard On Select Models.",
+      "Open And Close The Discharge Chute On Command",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Handles All Grass Types In Any Situation.",
+      "Powered By Industry Preferred Kawasaki® Engines With Options Up To 35 Horsepower To Tackle Through The Tough Jobs With Ease.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Classic-TS-v4.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/classic/"
+  },
+  {
+    "_id": "60d2c382194c259aa36c9a3696a10ce8",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Classic 3160KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "The Classic Is The Ultimate Mowing Machine With The Perfect Combination Of Commercial Quality With Industrial Features.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Classic-3160KW-e1594145119371-a.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/classic-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/OCDC-1.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/elite_x.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "60\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 16cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG280"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "5.8*"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "10 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "31 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Power Through Commercial Cuts Quicker And Easier.",
+      "High Performance Package",
+      "Ocdc",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "50\", 60\", And 72\" Elite X Deck",
+      "Power And More Power",
+      "Comes Standard On Select Models.",
+      "Open And Close The Discharge Chute On Command",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Handles All Grass Types In Any Situation.",
+      "Powered By Industry Preferred Kawasaki® Engines With Options Up To 35 Horsepower To Tackle Through The Tough Jobs With Ease.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Classic-TS-v4.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/classic/"
+  },
+  {
+    "_id": "3975ea44ccdb2136aac2b3a8f64e6287",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Classic 3572KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "The Classic Is The Ultimate Mowing Machine With The Perfect Combination Of Commercial Quality With Industrial Features.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/Classic-3160KW-e1594145119371-a.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/classic-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/OCDC-1.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/elite_x.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "72\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 21cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG335"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "7.5*"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "12 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "35 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "Power Through Commercial Cuts Quicker And Easier.",
+      "High Performance Package",
+      "Ocdc",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "50\", 60\", And 72\" Elite X Deck",
+      "Power And More Power",
+      "Comes Standard On Select Models.",
+      "Open And Close The Discharge Chute On Command",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Handles All Grass Types In Any Situation.",
+      "Powered By Industry Preferred Kawasaki® Engines With Options Up To 35 Horsepower To Tackle Through The Tough Jobs With Ease.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-Classic-TS-v4.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/classic/"
+  },
+  {
+    "_id": "b8c2f28160321676fdc703d727491605",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Xcaliber 3366KOE",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "Professional Commercial Contractors Across The U.S. Have Come To Depend On The Xcaliber For Its Legendary Performance. Dixie Chopper'S Flagship Mower Features:",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/XCaliber-3574KW.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/xcaliber-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/2x-6-Gallon-Fuel-Tanks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Wind-Tunnel.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "66\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 21cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG335"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "6.9**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "12 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "33 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kohler® EFI"
+      }
+    },
+    "features": [
+      "The Choice For Landscaping Pros",
+      "Total Comfort",
+      "2X 6 Gallon Fuel Tanks",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "X2 \"Wind Tunnel\" Deck",
+      "Pure Power",
+      "Suspension Seat And Springer Forks For Best Quality Ride.",
+      "Eliminate Frequent Fill-Ups With More Fuel Capacity.",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Increases Airflow And Recduces Build-Up Inside The Deck.",
+      "Equipped With An Industry Preferred 35 Horsepower Kawasaki® Fx Engine Or A 33 Horsepower Kohler Efi For Greater Fuel Efficiency.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-XCaliber-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/xcaliber/"
+  },
+  {
+    "_id": "ef77dbd595637d4ef4ac983971635807",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Xcaliber 3566KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "Professional Commercial Contractors Across The U.S. Have Come To Depend On The Xcaliber For Its Legendary Performance. Dixie Chopper'S Flagship Mower Features:",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/XCaliber-3574KW.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/xcaliber-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/2x-6-Gallon-Fuel-Tanks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Wind-Tunnel.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "66\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 21cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG335"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "6.9**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "12 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "35 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "The Choice For Landscaping Pros",
+      "Total Comfort",
+      "2X 6 Gallon Fuel Tanks",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "X2 \"Wind Tunnel\" Deck",
+      "Pure Power",
+      "Suspension Seat And Springer Forks For Best Quality Ride.",
+      "Eliminate Frequent Fill-Ups With More Fuel Capacity.",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Increases Airflow And Recduces Build-Up Inside The Deck.",
+      "Equipped With An Industry Preferred 35 Horsepower Kawasaki® Fx Engine Or A 33 Horsepower Kohler Efi For Greater Fuel Efficiency.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-XCaliber-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/xcaliber/"
+  },
+  {
+    "_id": "b1b220ad026f0418cb5b61d7517e6ecc",
+    "general": {
+      "manufacturer": "Dixie Chopper",
+      "model": "Xcaliber 3574KW",
+      "year": 2020,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Industrial mowers",
+      "description": "Professional Commercial Contractors Across The U.S. Have Come To Depend On The Xcaliber For Its Legendary Performance. Dixie Chopper'S Flagship Mower Features:",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/XCaliber-3574KW.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/xcaliber-white.png"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/07/High-Performance-Package.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/2x-6-Gallon-Fuel-Tanks.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/04/pumps_motors.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/Spindle-Fan.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/05/Wind-Tunnel.jpg"
+      },
+      {
+        "src": "https://www.dixiechopper.com/wp-content/uploads/2020/06/KW-FX-Engine.jpg"
+      }
+    ],
+    "operational": {
+      "cuttingDeck": {
+        "label": "Cutting Deck",
+        "desc": "74\""
+      },
+      "pumps": {
+        "label": "Pumps",
+        "desc": "Hydro-Gear® 21cc"
+      },
+      "wheelMotors": {
+        "label": "Wheel Motors",
+        "desc": "Parker® DG335"
+      },
+      "acresPerHour": {
+        "label": "Acres Per Hour",
+        "desc": "7.8**"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "12 Gal."
+      }
+    },
+    "engineDriveTrain": {
+      "engineHp": {
+        "label": "Engine HP",
+        "desc": "35 HP"
+      },
+      "engineMake": {
+        "label": "Engine Make",
+        "desc": "Kawasaki® FX"
+      }
+    },
+    "features": [
+      "The Choice For Landscaping Pros",
+      "Total Comfort",
+      "2X 6 Gallon Fuel Tanks",
+      "Pumps & Wheel Motors",
+      "Heavy-Duty Spindles & Cooling Fans",
+      "X2 \"Wind Tunnel\" Deck",
+      "Pure Power",
+      "Suspension Seat And Springer Forks For Best Quality Ride.",
+      "Eliminate Frequent Fill-Ups With More Fuel Capacity.",
+      "Stronger Transmissions For Extended System Life.",
+      "Keep Spindles And Belts Cool.",
+      "Increases Airflow And Recduces Build-Up Inside The Deck.",
+      "Equipped With An Industry Preferred 35 Horsepower Kawasaki® Fx Engine Or A 33 Horsepower Kohler Efi For Greater Fuel Efficiency.",
+      "warranty 3 Year (Limited) No Hour Limit"
+    ],
+    "options": [
+      "**Acres Per Hour Is Calculated On 80% Operator Accuracy And Mowing Conditions With An Optimum Cutting Height Of 2.5 To 4.5 Inches."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://www.dixiechopper.com/wp-content/uploads/2020/06/DC-2020-XCaliber-TS-v2.pdf"
+      }
+    ],
+    "productUri": "https://www.dixiechopper.com/product-category/industrial/xcaliber/"
+  }
+]

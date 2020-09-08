@@ -28,11 +28,12 @@ for nvIndex in nav:
             # model_name=
             # for Modindex in model_name:
             #     print(Modindex)
-            aTag=navpage.find("div",{"class":"entry-content"}).find_all("a",{"target":"_blank"})
+            aTag=navpage.find("div",{"class":"entry-content"}).find_all("a",{"class":"vivid-button"})
             for aIndex in aTag:
                 model_name=aIndex.text.strip()
+                # print(model_name)
                 model_list = []
-                if re.search(r'(?i)Galvanizing|Paint|Ramps|Option|View|Hot Dip|Finish|TSA|Narrow Neck|Options|Gas Engine Powered|Felling Tarp System|Questions|Pan Tilt|Series',model_name):
+                if re.search(r'(?i)Paint|Galvanizing|Air Ramps Option|View|Options|Questions|Contact Us|Comparison|Pricing|Option',model_name):
                     pass
                 else:
                     if len(model_name)>1:
@@ -45,6 +46,7 @@ for nvIndex in nav:
                     video_list=[]
                     Ptag_all=[]
                     declist=[]
+
                     subcat = indexAnchor.find("a").text
 
                     try:
@@ -76,6 +78,15 @@ for nvIndex in nav:
                     except:
                         pass
                     try:
+                        vide2=navpage.find_all("iframe")
+                        for iframIndex2 in vide2:
+                            video_src2=iframIndex2.get("src")
+                            # print(video_src2)
+                            video_list.append(video_src2)
+
+                    except:
+                        pass
+                    try:
                         decH4=navpage.find("div",{"id":"content"}).find("h2").text
                         declist.append(decH4)
 
@@ -87,7 +98,7 @@ for nvIndex in nav:
                         if len(dec)>3:
                             declist.append(dec)
                         else:
-                            dec="Felling Trailer"+" "+model
+                            dec="Felling Trailers"+" "+model
                             declist.append(dec)
 
                         # robot.Description(dec)
@@ -106,20 +117,29 @@ for nvIndex in nav:
                         ptg=navpage.find("div",{"id":"content"}).find_all("p")[1:]
                         for pgIndex in ptg:
                             pgtext=pgIndex.text.strip()
-                            Ptag_all.append(pgtext)
+                            if re.search(r'(?i)&nbsp;', pgtext):
+                                pass
+                            else:
+                                Ptag_all.append(pgtext)
 
                     except:pass
 
                     tempPtag=OrderedSet(Ptag_all)
                     for tagAllIndex in tempPtag:
                         if re.search(r'(?i)Optional|Option', tagAllIndex):
-                            robot.Options(tagAllIndex)
+                            if re.search(r'(?i) Some models may be shown with optional features', tagAllIndex):
+                                pass
+                            else:
+                                robot.Options(tagAllIndex)
                         else:
-                            robot.Features(tagAllIndex)
+                            if re.search(r'(?i)click Below', tagAllIndex):
+                                pass
+                            else:
+                                robot.Features(tagAllIndex)
 
                     ImgLst = OrderedSet(Imges_list)
                     for ImgIndex in ImgLst:
-                        if re.search(r'(?i)0008S|FTS_FELLING|logo', ImgIndex):
+                        if re.search(r'(?i)0008S|FTS_FELLING|logo|Sourcewell_Awarded_Contract_Steelblue', ImgIndex):
                             pass
                         else:
                             robot.fetch_img_manual(ImgIndex)
@@ -131,7 +151,7 @@ for nvIndex in nav:
                     robot.MasterCategory("Trailers")
                     robot.ProductUrl(Nav_url)
                     robot.Country("US")
-                    robot.ManufacturerName("Felling Trailer")
+                    robot.ManufacturerName("Felling Trailers")
                     robot.make_json()
         except:
             pass

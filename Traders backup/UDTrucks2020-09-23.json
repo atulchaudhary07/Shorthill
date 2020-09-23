@@ -1,0 +1,2757 @@
+[
+    {
+        "_id": "c282c4eea2ea8cc15ea39a538ec592dc",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CD 11L",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CD 11L Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "91eee986c2ca0cb1a6440571877545bf",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CD 8L",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CD 8L Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "2f1a20c7be6cc974d8b3a26c76c115a1",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CG 11L",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CG 11L Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "31826b51772f9c772bcf4cd6d6c17249",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CG 8L",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CG 8L Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "3d459c038931ef6e224b45f118e0da20",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CW 11L",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CW 11L Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "18268bb0bd9a3adc651d58d8a7427d66",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CW 8L",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CW 8L Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "995ed8c82b1c2bcb05b439cd23bfe4d5",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CX",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CX Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "39ccf759cc4eb139485a2cf914f2b22f",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon GK",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon GK Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "4de5127d650c33cd6cacf1a05f4cbea3",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CF",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CF Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "c5cdc8baba26819434a732294d27373d",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quon CZ",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quon",
+            "description": "Quon CZ Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/2019-quon-front-bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-freezervan_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-8l-left-side_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/cd/2019-quon-cd-side_bmp-splr_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gh11-engine_512x4463.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-disk-brake_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-escot-vi_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quon/common-images/quon-gearshift_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH11"
+            }
+        },
+        "features": [
+            "Safety functions for risk prediction",
+            "Truly safe driving on a daily basis requires the vehicle to predict potential dangers and immediately notify the driver. Quon features safety systems based on advanced technology including Traffic Eye braking and Driver Alert.The goal of \"safety that puts people first\" mandates safe conditions for drivers as well as those in the surrounding environment. Safety is built into all basic features, with heat-dissipating, fade-resistant disc brakes available on all models.",
+            "Reliability and durability you can count on",
+            "Highly reliable and durable trucks are essential for ensuring the high levels of uptime and distribution that shippers demand. Quon achieves its unrivaled quality throughout the entire vehicle, easily passing tests in even the strictest environments. We support our customers' businesses with reliability and durability that they can count on."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quon",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "6x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 20 - 23.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ESCOT-VI; 7-speed MT; 12-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "360 - 420Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "1750; 1900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air Type disk brake of front and rear; Auxiliary brake; UD Extra Engine Brake (EEB); Variable geometry turbo brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Tipper; Mixer; Lorry"
+            }
+        }
+    },
+    {
+        "_id": "a8dc4eb0575791959925b2ece6ec6d85",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester CQE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester CQE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "0298c8d685e0112164456f0d93ab7222",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester CKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester CKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "d14abf13f62fcb40db7f936e7bc5cccf",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester CDE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester CDE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "c0855addb5dc11bce6fb1d97969e9886",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester CWE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester CWE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "dd9d9ac14ebb277ed3ed58d4609e8931",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester CGE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester CGE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "31c9ebd3250a20eadfd1f37fe758cad5",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester GKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester GKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "9e4a61d4c291fc9f034de77c5090e3d1",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester GDE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester GDE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "776501eeb38c3666516d7f1a9d1efcd3",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "New Quester GWE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "New Quester",
+            "description": "New Quester GWE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/new-cqe/quester-cqe-2019-spec-image_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "Rising fuel costs have become a major issue for the transport industry globally. Increasing overheads are putting pressure on your business. New Quester introduces ESCOT automated manual transmission (AMT). Making it easier to drive and more fuel efficient. Helping you make the break towards lower operating costs.",
+            "Driver shortage has been an issue in the trucking industry for several years. Attracting and retaining driving talent is a tough task. New Quester features a spacious cab with a more pleasant and comfortable working environment. And with ESCOT onboard, a more efficient drive is the result. New Quester is a truck your drivers will be proud of.",
+            "Complex, multi-layered interfaces and login procedures can make it difficult to access the detailed information when you need to make quick, positive decisions to choose the most efficient routes and maximize truck uptime. UD Telematics services will help you improve your profitability by maximizing vehicle uptime and fuel efficiency, while reducing unplanned stops and operational costs.",
+            "Maximizing your resources equates to ensuring productivity and efficiency on every transport assignment. Every truck in your fleet should operate at its capacity. New Quester offers you more payload and productivity possibilities than ever. The optimized tare weight and driveline have significantly reduced the truck's weight, allowing you to transport more on every trip."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/new-quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "8x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 38Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "250 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake as standard"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "d0ba5a71432f23d49864fb9e9476f033",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester CKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester CKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "39a4fa8cdfc66b25c8fcbaf3e9e1de3b",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester CDE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester CDE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "dd605d2de22a51e29f327f55d4ad7b7a",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester CWE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester CWE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "ab5e971e95a954549ae63ae21a11a6e9",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester CGE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester CGE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "ef77614bd9da6c3f7579a0ed03992af8",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester GKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester GKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "2b11e1a8833bbbc3e16525c4b8c2355d",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester GDE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester GDE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "768040e612c686a48b14a3fa89131c60",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Quester GWE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Quester",
+            "description": "Quester GWE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-cke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/cke/quester-8l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-interior_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-instrument-panel_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-chassis_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-frame_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-high-payload_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/quester/common-images/quester-powertrain_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH8E"
+            }
+        },
+        "features": [
+            "First-rate fuel economy",
+            "It's all about space. Quester's cab reduces driver's fatigue in long distance operations. But a well-planned driver's environment also results in safer and more fuel-efficient driving. After all, only a driver in top form can also produce top performances behind the steering wheel.",
+            "With Quester we have created a reliable and productive truck, built with proven quality components. Simply put, an enduring and more serviceable truck made for the long run - so you'll spend less time on maintenance and more time working."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/quester",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 21Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 9-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "220 - 330Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "850; 950; 1050; 1200"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "313cbf6ecc5550c0824e11e641f96032",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Condor MK/LK",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Condor",
+            "description": "Condor MK/LK Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk-lk-2_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk-lk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-gearshift_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-interior_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "4HK1-TCC; 4HK1-TCS; 4HK1-TCH"
+            }
+        },
+        "features": [
+            "The highly efficient engine contributes to a reduction in transportation costs",
+            "By mixing advanced safety systems such as the Pre-crash Brake, the Lane Departure Warning System, and the Millimeter-Wave Inter-Vehicle Distance Warning, we improve safety and contribute to a reduction in driver fatigue and enable daily safe driving."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/condor",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 7.5 - 11Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ATM; 6-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "190 - 240Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "515; 706; 765"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air hydraulic combined type; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Mixer; Tipper; Crane"
+            }
+        }
+    },
+    {
+        "_id": "032c8d9674d710b6ad10424f72db5046",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Condor PK",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Condor",
+            "description": "Condor PK Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk-lk-2_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk-lk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-gearshift_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-interior_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "4HK1-TCC; 4HK1-TCS; 4HK1-TCH"
+            }
+        },
+        "features": [
+            "The highly efficient engine contributes to a reduction in transportation costs",
+            "By mixing advanced safety systems such as the Pre-crash Brake, the Lane Departure Warning System, and the Millimeter-Wave Inter-Vehicle Distance Warning, we improve safety and contribute to a reduction in driver fatigue and enable daily safe driving."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/condor",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 7.5 - 11Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ATM; 6-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "190 - 240Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "515; 706; 765"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air hydraulic combined type; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Mixer; Tipper; Crane"
+            }
+        }
+    },
+    {
+        "_id": "6e807ef92a18b2e603035f69b23cda88",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Condor PW",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Condor",
+            "description": "Condor PW Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk-lk-2_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/mklk/condor-mk-lk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-gearshift_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/condor/common-images/condor-interior_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "4HK1-TCC; 4HK1-TCS; 4HK1-TCH"
+            }
+        },
+        "features": [
+            "The highly efficient engine contributes to a reduction in transportation costs",
+            "By mixing advanced safety systems such as the Pre-crash Brake, the Lane Departure Warning System, and the Millimeter-Wave Inter-Vehicle Distance Warning, we improve safety and contribute to a reduction in driver fatigue and enable daily safe driving."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/condor",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 7.5 - 11Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "ATM; 6-speed MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "190 - 240Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "515; 706; 765"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Air hydraulic combined type; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Fridge Freezer; Mixer; Tipper; Crane"
+            }
+        }
+    },
+    {
+        "_id": "c23a184e99bea536e69ac17873d75802",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Croner MKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Croner",
+            "description": "Croner MKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke-lke-automatic-gearbox-for-5l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke-lke-gh5e-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/mke-lke-manual-gearbox-for-5l-engine_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH5E"
+            }
+        },
+        "features": [
+            "Better fuel efficiency for optimized operating hours",
+            "UD Trucks prides itself in offering you the package that suits your needs. Croner uses fuel efficiently and without waste. Using less fuel every minute means going further and longer at lower cost.The new high torque GHE engine engine series, UD's fuel coaching solutions and the optional automatic transmission gives every driver the tools to improve and maximize fuel efficiency.",
+            "More space, comfort and convenience for drivers all the time",
+            "Croner's cabin has been designed to be the perfect 'office' for drivers, with a pleasant overall appearance, logical control scheme and numerous features for driver comfort and convenience.",
+            "Engineered to be reliable and durable",
+            "With Croner we have created a reliable and durable truck, built with proven robust components without compromising on quality. It's an enduring and easily serviced truck, so you'll spend less time on maintenance and more time making money on the road. Each component is the result of years of development and harsh stress testing.",
+            "Maximize uptime with UD Extra Mile Support",
+            "UD Extra Mile Support is everything you need to make the most out of every moment. From service and parts to on-road support, driver training and telematics, it's our complete solution that you can rely on to keep your truck running. We believe in going the extra mile to support you wherever you are - or wherever your fleet may be."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/croner",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 10.4 - 11Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 6-speed AT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "180 - 240Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "750; 825; 900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3; Euro 4"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "631f8bb7097aef5980dc484bf56680cc",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Croner LKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Croner",
+            "description": "Croner LKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke-lke-automatic-gearbox-for-5l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke-lke-gh5e-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/mke-lke-manual-gearbox-for-5l-engine_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH5E"
+            }
+        },
+        "features": [
+            "Better fuel efficiency for optimized operating hours",
+            "UD Trucks prides itself in offering you the package that suits your needs. Croner uses fuel efficiently and without waste. Using less fuel every minute means going further and longer at lower cost.The new high torque GHE engine engine series, UD's fuel coaching solutions and the optional automatic transmission gives every driver the tools to improve and maximize fuel efficiency.",
+            "More space, comfort and convenience for drivers all the time",
+            "Croner's cabin has been designed to be the perfect 'office' for drivers, with a pleasant overall appearance, logical control scheme and numerous features for driver comfort and convenience.",
+            "Engineered to be reliable and durable",
+            "With Croner we have created a reliable and durable truck, built with proven robust components without compromising on quality. It's an enduring and easily serviced truck, so you'll spend less time on maintenance and more time making money on the road. Each component is the result of years of development and harsh stress testing.",
+            "Maximize uptime with UD Extra Mile Support",
+            "UD Extra Mile Support is everything you need to make the most out of every moment. From service and parts to on-road support, driver training and telematics, it's our complete solution that you can rely on to keep your truck running. We believe in going the extra mile to support you wherever you are - or wherever your fleet may be."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/croner",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 10.4 - 11Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 6-speed AT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "180 - 240Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "750; 825; 900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3; Euro 4"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "692677c1ba89ceb47a654e5070139c08",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Croner PKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Croner",
+            "description": "Croner PKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke-lke-automatic-gearbox-for-5l-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/croner-mke-lke-gh5e-engine_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/croner/mke/mke-lke-manual-gearbox-for-5l-engine_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "GH5E"
+            }
+        },
+        "features": [
+            "Better fuel efficiency for optimized operating hours",
+            "UD Trucks prides itself in offering you the package that suits your needs. Croner uses fuel efficiently and without waste. Using less fuel every minute means going further and longer at lower cost.The new high torque GHE engine engine series, UD's fuel coaching solutions and the optional automatic transmission gives every driver the tools to improve and maximize fuel efficiency.",
+            "More space, comfort and convenience for drivers all the time",
+            "Croner's cabin has been designed to be the perfect 'office' for drivers, with a pleasant overall appearance, logical control scheme and numerous features for driver comfort and convenience.",
+            "Engineered to be reliable and durable",
+            "With Croner we have created a reliable and durable truck, built with proven robust components without compromising on quality. It's an enduring and easily serviced truck, so you'll spend less time on maintenance and more time making money on the road. Each component is the result of years of development and harsh stress testing.",
+            "Maximize uptime with UD Extra Mile Support",
+            "UD Extra Mile Support is everything you need to make the most out of every moment. From service and parts to on-road support, driver training and telematics, it's our complete solution that you can rely on to keep your truck running. We believe in going the extra mile to support you wherever you are - or wherever your fleet may be."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/croner",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 10.4 - 11Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6-speed MT; 6-speed AT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "180 - 240Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "750; 825; 900"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Full air brake system; Automatic slack adjuster; ABS optional; Spring-based parking brakes; Exhaust brake system"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Euro 3; Euro 4"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo"
+            }
+        }
+    },
+    {
+        "_id": "e3fee6a86c895a5c1ddd4df29961e8ff",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Kazet SK",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Kazet",
+            "description": "Kazet SK Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kazet/sk/kazet-sk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kazet/sk/kazet-4p10-engine_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "4P10"
+            }
+        },
+        "features": [
+            "Four wheel disc brakes are equipped as one of the standard features to support driving safety*, and other sophisticated brake systems including ABS+EBD are adopted. These functions give drivers a sense of security in daily use by providing safety, which is the foundation of the transportation business.*Excluding 4WD wide cabs",
+            "With consideration of the various situations of driving a light-duty truck, excellent comfortableness is created. Not only the spaciousness of the cabin, but also the ease of getting in and out and mobility in the cabin are reflected in the vehicle design. In addition, supportive equipment for professionals, including a multi-functional monitor to provide information of the car appropriately, as well as various storage spaces, were realized for reducing driver fatigue and increasing work efficiency.",
+            "Excellent off-road capability is the major advantage of 4WD, it supports daily operations safely and powerfully.This capability enables driving durability on unsurfaced and rough roads even in mountainous or snowy areas.",
+            "Kazet RK is a new model with high load capacity beyond the existing categories, with capabilities for diversified short distance transportation and urban distribution. Our innovative ideas realized an unprecedented efficiency by creating a wider cargo space, which was demanded for light-duty trucks, and more load capacity, which is demanded of medium-duty trucks. With its high load capacity, total cost-saving effects, and driver-oriented and eco-friendly performance, Kazet RK provides ideal high efficiency transportation to our customers' businesses. (Champagne gold is the special color of the catalog.)",
+            "Kazet's cutting-edge technologies; dual clutch AMT and urea SCR system. Overwhelmingly superior fuel efficiency and environmental performance are realized by combining the hybrid system with the above two systems.This model has also achieved significant reduction of CO2 emissions."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/kazet",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 4.3 - 7.8Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "Dual clutch AMT/MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "130 - 175Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "300; 370; 430"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "ABS; Brake overriding system; Disc brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post New Long Term emission regulation; Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Tipper"
+            }
+        }
+    },
+    {
+        "_id": "4d7bfff4200d04c5678e17d6a5cb193b",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Kazet SF",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Kazet",
+            "description": "Kazet SF Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kazet/sk/kazet-sk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kazet/sk/kazet-4p10-engine_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "4P10"
+            }
+        },
+        "features": [
+            "Four wheel disc brakes are equipped as one of the standard features to support driving safety*, and other sophisticated brake systems including ABS+EBD are adopted. These functions give drivers a sense of security in daily use by providing safety, which is the foundation of the transportation business.*Excluding 4WD wide cabs",
+            "With consideration of the various situations of driving a light-duty truck, excellent comfortableness is created. Not only the spaciousness of the cabin, but also the ease of getting in and out and mobility in the cabin are reflected in the vehicle design. In addition, supportive equipment for professionals, including a multi-functional monitor to provide information of the car appropriately, as well as various storage spaces, were realized for reducing driver fatigue and increasing work efficiency.",
+            "Excellent off-road capability is the major advantage of 4WD, it supports daily operations safely and powerfully.This capability enables driving durability on unsurfaced and rough roads even in mountainous or snowy areas.",
+            "Kazet RK is a new model with high load capacity beyond the existing categories, with capabilities for diversified short distance transportation and urban distribution. Our innovative ideas realized an unprecedented efficiency by creating a wider cargo space, which was demanded for light-duty trucks, and more load capacity, which is demanded of medium-duty trucks. With its high load capacity, total cost-saving effects, and driver-oriented and eco-friendly performance, Kazet RK provides ideal high efficiency transportation to our customers' businesses. (Champagne gold is the special color of the catalog.)",
+            "Kazet's cutting-edge technologies; dual clutch AMT and urea SCR system. Overwhelmingly superior fuel efficiency and environmental performance are realized by combining the hybrid system with the above two systems.This model has also achieved significant reduction of CO2 emissions."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/kazet",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 4.3 - 7.8Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "Dual clutch AMT/MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "130 - 175Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "300; 370; 430"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "ABS; Brake overriding system; Disc brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post New Long Term emission regulation; Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Tipper"
+            }
+        }
+    },
+    {
+        "_id": "1e80972685c1d5b319701a422ea7c2b4",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Kazet RK",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Kazet",
+            "description": "Kazet RK Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kazet/sk/kazet-sk_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kazet/sk/kazet-4p10-engine_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "4P10"
+            }
+        },
+        "features": [
+            "Four wheel disc brakes are equipped as one of the standard features to support driving safety*, and other sophisticated brake systems including ABS+EBD are adopted. These functions give drivers a sense of security in daily use by providing safety, which is the foundation of the transportation business.*Excluding 4WD wide cabs",
+            "With consideration of the various situations of driving a light-duty truck, excellent comfortableness is created. Not only the spaciousness of the cabin, but also the ease of getting in and out and mobility in the cabin are reflected in the vehicle design. In addition, supportive equipment for professionals, including a multi-functional monitor to provide information of the car appropriately, as well as various storage spaces, were realized for reducing driver fatigue and increasing work efficiency.",
+            "Excellent off-road capability is the major advantage of 4WD, it supports daily operations safely and powerfully.This capability enables driving durability on unsurfaced and rough roads even in mountainous or snowy areas.",
+            "Kazet RK is a new model with high load capacity beyond the existing categories, with capabilities for diversified short distance transportation and urban distribution. Our innovative ideas realized an unprecedented efficiency by creating a wider cargo space, which was demanded for light-duty trucks, and more load capacity, which is demanded of medium-duty trucks. With its high load capacity, total cost-saving effects, and driver-oriented and eco-friendly performance, Kazet RK provides ideal high efficiency transportation to our customers' businesses. (Champagne gold is the special color of the catalog.)",
+            "Kazet's cutting-edge technologies; dual clutch AMT and urea SCR system. Overwhelmingly superior fuel efficiency and environmental performance are realized by combining the hybrid system with the above two systems.This model has also achieved significant reduction of CO2 emissions."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/kazet",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 4.3 - 7.8Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "Dual clutch AMT/MT"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "130 - 175Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "300; 370; 430"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "ABS; Brake overriding system; Disc brake"
+            },
+            "emissionControlSystemEcs": {
+                "label": "Emission Control System (ECS)",
+                "desc": "Post New Long Term emission regulation; Post Post New Long Term emission regulation"
+            },
+            "application": {
+                "label": "Application",
+                "desc": "Cargo; Tipper"
+            }
+        }
+    },
+    {
+        "_id": "0bbfd343196f7ba27ac1851d4090703b",
+        "general": {
+            "manufacturer": "UD Trucks",
+            "model": "Kuzer RKE",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "Kuzer",
+            "description": "Kuzer RKE Trucks",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kuzer/rke/kuzer-rke-red-2_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kuzer/rke/kuzer-rke-red_512x446.jpg"
+            },
+            {
+                "src": "https://www.udtrucks.com/-/media/images/project/udtrucks/international/products/spec-gallery/kuzer/rke/kuzer-rke-red-3_512x446.jpg"
+            }
+        ],
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "UD GH4E 150"
+            }
+        },
+        "features": [
+            "Sustainability. The struggle is real.",
+            "Investing in a more fuel-efficient truck these days is a no-brainer. With international laws demanding ever-tighter controls on freight transport, and city authorities looking at ways of cutting diesel emissions, sustainability has to be a top priority for any forward-thinking business. Enter the Kuzer.It is equipped with a market leader engine of 150hp as well as an optimized driveline and fuel coaching technology that provides high fuel efficiency.",
+            "In a class of one.",
+            "What makes your business unique? When days are busy and margins are tight, taking productivity to the next level can set you apart from the rest. By matching an engine this powerful with a cab this comfortable, the Kuzer has created a totally new product category. Its own. UD Trucks prides itself in offering you the package that suits your needs. Kuzer uses fuel efficiently and without waste. Using less fuel every minute means going further and longer at lower cost."
+        ],
+        "productUri": "https://www.udtrucks.com/trucks/kuzer",
+        "dimensions": {
+            "axleConfiguration": {
+                "label": "Axle Configuration",
+                "desc": "4x2"
+            },
+            "weight": {
+                "label": "Weight",
+                "desc": "GVW 8.5Ton"
+            },
+            "transmission": {
+                "label": "Transmission",
+                "desc": "6 speed over drive type"
+            },
+            "power": {
+                "label": "Power",
+                "desc": "150Hp"
+            },
+            "torque": {
+                "label": "Torque",
+                "desc": "490"
+            },
+            "brakingSystem": {
+                "label": "Braking System",
+                "desc": "Dual circuit full air brakes"
+            }
+        }
+    }
+]

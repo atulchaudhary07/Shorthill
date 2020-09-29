@@ -53,7 +53,7 @@ class bot:
             "features":None,
             "options":None,
             "attachments":None,
-            "productUri":None,
+            "productUrl":None,
             "videos":None,
             "dimensions":None,
             "drivetrain":None,
@@ -157,8 +157,8 @@ class bot:
         self.img_count = 1
         self.vid_count = 1
 
-    def ProductUrl(self,uri):
-        self.ObjStr["productUri"] = uri
+    def ProductUrl(self,url):
+        self.ObjStr["productUrl"] = url
 
     def ManufacturerName(self,manufacturer):
         manufacturer = self.special_charCare(manufacturer)
@@ -548,7 +548,7 @@ class bot:
         
     def make_json(self):
 
-        if(self.ObjStr["productUri"] is None):
+        if(self.ObjStr["productUrl"] is None):
             print("\n\nError:\nProductUrl should not be None\nScript Ending")
             sys.exit()
 
@@ -609,7 +609,7 @@ class bot:
             "features":None,
             "options":None,
             "attachments":None,
-            "productUri":None,
+            "productUrl":None,
             "videos":None,
             "dimensions":None,
             "drivetrain":None,
@@ -640,7 +640,7 @@ class bot:
 
         
 
-        json_data = json_data=open(self.filename,encoding='utf-8')
+        json_data=open(self.filename,encoding='utf-8')
         data = json.load(json_data)
         for i in data:
             try:
@@ -656,7 +656,7 @@ class bot:
                            count = count+1
             except:
                 pass
-        
+        json_data.close()
         with open(self.filename, 'rb+') as filehandle:
             filehandle.seek(-1, os.SEEK_END)
             filehandle.truncate()
@@ -668,10 +668,3 @@ class bot:
             filehandle.write(str(data))
         os.remove(self.filename)
 
-
-
-        
-            
-
-
-     

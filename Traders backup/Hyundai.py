@@ -112,7 +112,6 @@ for sub in Templist:
                                 All_feats.append(P_tag_fet_text.replace("  "," "))
 
 
-
                     except:
                         pass
                     try:
@@ -284,7 +283,10 @@ for sub in Templist:
                             robot.Features(Indexof_union)
                     for ImgIndex_src in ImgLst_lis_order:
                         if len(ImgIndex_src)>3:
-                            robot.fetch_img_manual(ImgIndex_src)
+                            if re.search(r'(?i).gif', ImgIndex_src):
+                                pass
+                            else:
+                                robot.fetch_img_manual(ImgIndex_src)
                     for OpIndex in TempOpList:
                         robot.Options(OpIndex)
 
@@ -294,7 +296,6 @@ for sub in Templist:
                     robot.Country("US")
                     robot.ManufacturerName("Hyundai")
                     robot.make_json()
-
 
                 except:
                     pass

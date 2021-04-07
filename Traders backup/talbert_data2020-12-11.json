@@ -1,0 +1,2108 @@
+[
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "30-55 FG",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert 30-55 FG",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261375_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "25,000 lb. capacity Spacing: 50 in. (54 or 60 in. spacing available upon request)"
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "16-1/2 x 7 in. with automatic slack adjusters"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Air suspension with manual raising and lowering valve"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard mounted drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V DOT LED, rubber mounted with sealed harness"
+      }
+    },
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/30-55FG/2018/NV311996_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/30-55+FG/5f18915ac185424e175ba2e1/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "30-55 HRG",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert 30-55 HRG",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv295258_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "25,000 lb. capacity Spacing: 50 in. (54 or 60 in. spacing available upon request)"
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "16-1/2 x 7 in. with automatic slack adjusters"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in."
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Air suspension with manual raising and lowering valve"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard mounted drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V DOT LED, rubber mounted with sealed harness"
+      }
+    },
+    "features": [
+      "Safety Features:10 lash rings (5 each side of deck)"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/30-55HRG/2018/NV312004_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/30-55+HRG/5f18915ac185424e175ba2e2/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "30-55 SRG",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert 30-55 SRG",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261366_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "25,000 lb. capacity Spacing: 50 in. (54 or 60 in. spacing available upon request)"
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "16-1/2 x 7 in. with automatic slack adjusters"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in."
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Air suspension with manual raising and lowering valve"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard mounted drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V DOT LED, rubber mounted with sealed harness"
+      }
+    },
+    "features": [
+      "Safety Features:10 lash rings (5 each side of deck)"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/30-55SRG/2018/NV311993_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/30-55+SRG/5f18915ac185424e175ba2e3/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "35 Ton Sloping Paver",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 35 Ton Sloping Paver",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv352097_0.jpg"
+      }
+    ],
+    "operational": {
+      "lights": {
+        "label": "Lights",
+        "desc": "12V LED system including mid-turn lights, license plate light"
+      },
+      "axles": {
+        "label": "Axles",
+        "desc": "(2) 25,000 lb.Spacing: 55 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "16-1/2 x 7 in. air actuated with 2S/1M ABS and spring brakes on 1 axle"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable with double hook-on at front of deck"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air with over ride chains on all axles"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "(8) 255/70R22.5 (H) 16PR radials"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "10 stud; 285.75 mm BC steel disc hub piloted system with oil seals"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "7-pin connector"
+      }
+    },
+    "features": [
+      "Safety Features:Flag holder each side at rear with threaded keeper; 12 lash rings (6 each side of deck)"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/35+Ton+Sloping+Paver/5f18915bc185424e175ba2e8/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "35CC",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 35CC",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261369_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Anti-lock brake systemSpring parking brake on 1 axle"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:4 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/35CC/2018/NV1008017_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/35CC/5f18915bc185424e175ba2e9/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "35HT",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Traveling Axle Series & Hydraulic Tail",
+      "description": "Talbert 35HT",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261364_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2, 25,000 lb. with oil seals Spacing: 49 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 x 7-1/2 in. with ABS"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Air ride with dump valve"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "(8) 235/75R17.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Hub piloted type disc wheels with outboard mount hubs"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "DOT rubber mounted sealed beam lights with modular harness"
+      }
+    },
+    "features": [
+      "Safety Features:Dual toolboxes on front of goseneck; hydraulic winch located top, center, front of gooseneck; wireless remote winch operation; stake pockets / chain slots on 24 in. centers; D-rings on 4 ft. centers on deck and tail; 4 D-rings on gooseneck; auto slack adjusters; mud flaps; Red and White conspicuity striping"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/35HT/2018/NV311991_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Traveling+Axle+Series+%26+Hydraulic+Tail/35HT/5f18915dc185424e175ba303/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "35RP",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 35RP",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261427_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring brakes on 1 axle"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "Lights and Wiring: Sealed harness"
+      }
+    },
+    "features": [
+      "Safety Features:4 lash rings on each side of deck; 3 in. high roller stop"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/35RP/2018/NV311985_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/35RP/5f18915bc185424e175ba2ea/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "35SRG Extendable",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert 35SRG Extendable",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261425_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2; 25,000 lb. capacity Spacing: 50 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Anti-lockSpring parking brake on 1 axle"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Air ride"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc hub piloted, outboard mounting"
+      }
+    },
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/35SRGExtendable/2018/NV311980_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/35SRG+Extendable/5f18915ac185424e175ba2e4/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "4048TA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Traveling Axle Series & Hydraulic Tail",
+      "description": "Talbert 4048TA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv474155_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2 Spacing: 50 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 x 7-1/2 in., 2S/1M ABS air system"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "235/75R17.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Hub piloted steel disc"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "7-way plug with LED lights"
+      }
+    },
+    "features": [
+      "Safety Features:Large capacity lockable tool box on curb side with chain rack, updated hardware and door seal; cable roller at front, center of lower deck; keyhole chain slots in side beams and deck center-line; 8 keyhole chain slots across rear approach plate; 6-function wireless remote (winch, tilt and axles); Right Weight digital load scale"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/4048TA/2018/NV1009225_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Traveling+Axle+Series+%26+Hydraulic+Tail/4048TA/5f18915dc185424e175ba304/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "4050TA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Traveling Axle Series & Hydraulic Tail",
+      "description": "Talbert 4050TA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv474161_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2 Spacing: 50 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 x 7-1/2 in., 2S/1M ABS air system"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "235/75R17.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Hub piloted steel disc"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "7-way plug with LED lights"
+      }
+    },
+    "features": [
+      "Safety Features:Large capacity lockable tool box on curb side with chain rack, updated hardware and door seal; cable roller at front, center of lower deck; keyhole chain slots in side beams and deck center-line; 8 keyhole chain slots across rear approach plate; 6-function wireless remote (winch, tilt and axles); Right Weight digital load scale"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/4050TA/2018/NV1009250_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Traveling+Axle+Series+%26+Hydraulic+Tail/4050TA/5f18915dc185424e175ba305/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "4053TA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Traveling Axle Series & Hydraulic Tail",
+      "description": "Talbert 4053TA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv474162_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2 Spacing: 50 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 x 7-1/2 in., 2S/1M ABS air system"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "235/75R17.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Hub piloted steel disc"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "7-way plug with LED lights"
+      }
+    },
+    "features": [
+      "Safety Features:Large capacity lockable tool box on curb side with chain rack, updated hardware and door seal; cable roller at front, center of lower deck; keyhole chain slots in side beams and deck center-line; 8 keyhole chain slots across rear approach plate; 6-function wireless remote (winch, tilt and axles); Right Weight digital load scale"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/4053TA/2018/NV1009251_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Traveling+Axle+Series+%26+Hydraulic+Tail/4053TA/5f18915dc185424e175ba306/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "50CC",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 50CC",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261371_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:5 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/50CC/2018/NV1008020_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/50CC/5f18915bc185424e175ba2eb/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "50CC-PS Hybrid",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 50CC-PS Hybrid",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv349842_0.jpg"
+      }
+    ],
+    "operational": {
+      "lights": {
+        "label": "Lights",
+        "desc": "12V LED sealed light system"
+      },
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "features": [
+      "Safety Features:5 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/50CC-PS+Hybrid/5f18915bc185424e175ba2ec/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "5548TA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Traveling Axle Series & Hydraulic Tail",
+      "description": "Talbert 5548TA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv474163_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3 Spacing: 50 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 x 7-1/2 in., 2S/1M ABS air system"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "235/75R17.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Hub piloted steel disc"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "7-way plug with LED lights"
+      }
+    },
+    "features": [
+      "Safety Features:Large capacity lockable tool box on curb side with chain rack, updated hardware and door seal; cable roller at front, center of lower deck; keyhole chain slots in side beams and deck center-line; 8 keyhole chain slots across rear approach plate; 6-function wireless remote (winch, tilt and axles); Right Weight digital load scale"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/5548TA/2018/NV1009252_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Traveling+Axle+Series+%26+Hydraulic+Tail/5548TA/5f18915dc185424e175ba307/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "5553TA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Traveling Axle Series & Hydraulic Tail",
+      "description": "Talbert 5553TA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv474164_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3 Spacing: 50 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 x 7-1/2 in., 2S/1M ABS air system"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "235/75R17.5 (H) 16PR"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Hub piloted steel disc"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "7-way plug with LED lights"
+      }
+    },
+    "features": [
+      "Safety Features:Large capacity lockable tool box on curb side with chain rack, updated hardware and door seal; cable roller at front, center of lower deck; keyhole chain slots in side beams and deck center-line; 8 keyhole chain slots across rear approach plate; 6-function wireless remote (winch, tilt and axles); Right Weight digital load scale"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/5553TA/2018/NV1009254_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Traveling+Axle+Series+%26+Hydraulic+Tail/5553TA/5f18915dc185424e175ba308/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "55CC",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 55CC",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261368_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck, 8 lash rings between deck mainbeams, 2 sections chain storage"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/55CC/2018/NV1008022_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/55CC/5f18915bc185424e175ba2ed/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "55RP",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 55RP",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261424_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3, 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring brakes on 1 axle"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "Lights and Wiring: Sealed harness"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck; 3 in. high roller stop"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/55RP/2018/NV311998_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/55RP/5f18915bc185424e175ba2ee/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "55SA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 55SA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261373_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/55SA/2018/NV1008025_3.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/55SA/5f18915bc185424e175ba2ef/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "55SA TELE",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 55SA TELE",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261428_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 60 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:17 Total Lash Rings: 6 on each side of deck, 1 on each side of 3 ft. platform, 2 at rear of axle 3, 1 at front of gooseneck extension"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/55SATELE/2018/NV1008023_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/55SA+TELE/5f18915bc185424e175ba2f0/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "55SA-HX",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 55SA-HX",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261482_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in.Air lift 3rd axle"
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck, strobes and battery backup"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/55SA-HX/2018/NV1008026_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/55SA-HX/5f18915bc185424e175ba2f1/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "55SA-RC",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 55SA-RC",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261370_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/55SA-RC/2018/NV1008028_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/55SA-RC/5f18915cc185424e175ba2f3/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "6 Axle Steer Dolly",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 6 Axle Steer Dolly",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv349843_0.jpg"
+      },
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv349843_1.jpg"
+      }
+    ],
+    "operational": {
+      "lights": {
+        "label": "Lights",
+        "desc": "All lights to be LED, excluding license plate light, 3 tail light package with strobes"
+      },
+      "axles": {
+        "label": "Axles",
+        "desc": "6), 5 in. round, 25,000 lb. capacity Spacing: 60 in. spacing between axles 1, 2 & 3, 4, 5 & 6 Booster Axle Spread Dimension: 16 ft. 1 in. between axle 3 & 4 Non-Steer Axle Group: Axles 1, 2 & 3 are fixed with axle straps Steerable Axle Group: Axles 4, 5 & 6 are mechanical self-steering or manual override steering - wireless remote type steering"
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "12-1/4 in. x 7-1/2 in. air actuated, spring brakes on all axles in the first 3 axle group"
+      },
+      "hitch": {
+        "label": "Hitch",
+        "desc": "Flip up and removable draw bar attached at rear of 6 axle dolly for empty travel"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "25,000 lb. capacity air ride with manual exhaust valve in both axle groups"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "(24) 245/75R17.5 (H) 16 PR radials"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "8 hole hub-piloted, steel disc wheels 17.5 x 6.75"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "4-way plug in rear panel for beacon light100 ft. air and electrical tether to connect 6 axle dolly to towing vehicle12 ft. air and electrical tether to connect 6 axle dolly to towing vehicle for return trip"
+      }
+    },
+    "features": [
+      "Safety Features:4 lash rings each side, 4 flag holders (2 at outer front, 2 at outer rear)"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/6AxleSteerDolly/2018/NV349843_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/6+Axle+Steer+Dolly/5f18915cc185424e175ba2f4/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "60CC/55SA-LD",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 60CC/55SA-LD",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv420691_1.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "275/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/TAL_60CC55SA-LD.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/60CC--55SA-LD/5f18915cc185424e175ba2f5/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "60FG Oil Field",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert 60FG Oil Field",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261486_1.jpg"
+      },
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261486_2.jpg"
+      },
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261486_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "4, 25,000 lb. capacity Air lift on axle 4 Spacing: 60 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "30,000 lb. air ride with automatic and manual controls"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:20 Total Lash Rings: 10 on each side of deck; last axle to have axle stops to prevent crushing when loading"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/60FGOilField/2018/NV420690_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/60FG+Oil+Field/5f18915ac185424e175ba2e5/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "60SA",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 60SA",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261485_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/60SA/2018/NV1008029_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/60SA/5f18915cc185424e175ba2f6/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "60SA-RC",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 60SA-RC",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261483_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 54 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "255/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:6 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/60SA-RC/2018/NV1008030_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/60SA-RC/5f18915cc185424e175ba2f7/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "65FG Oil Field",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert 65FG Oil Field",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv427860_2.jpg"
+      }
+    ],
+    "operational": {
+      "lights": {
+        "label": "Lights",
+        "desc": "DOT rubber mount with modular harness"
+      },
+      "axles": {
+        "label": "Axles",
+        "desc": "Air lift - axles 1 & 5"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "Low profile 17.5 tires / low profile 22.5 tires"
+      }
+    },
+    "features": [
+      "Safety Features:Lash rings - 10 each side of deck, key hole slots in outer flange on 48 in. centers, 6 pin pockets on outside flange (including tail roller), 2 pair of pipe pockets inside side beam flange, axle stops on last axle to prevent crushing when loading, lightening holes in deck side beams"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/65FGOilField/2018/NV427860_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/65FG+Oil+Field/5f18915bc185424e175ba2e6/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "65SA Modular",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert 65SA Modular",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv420824_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3; 25,000 lb. capacity Spacing: 60 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Spring parking brake on axle 2"
+      },
+      "outriggers": {
+        "label": "Outriggers",
+        "desc": "12 in. swinging / removable"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "275/70R22.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc, hub piloted with outboard brake drums"
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "label": "Electrical",
+        "desc": "12V LED sealed light system"
+      }
+    },
+    "features": [
+      "Safety Features:7 lash rings on each side of deck"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/65SAModular/2018/NV1008031_3.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/65SA+Modular/5f18915cc185424e175ba2f8/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "AC-10",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Tag-a-Long Series & Air Tilt Series",
+      "description": "Talbert AC-10",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv420661_1.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2 Spacing: 48-1/2 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Electric (breakaway switch with battery)"
+      },
+      "coupler": {
+        "label": "Coupler",
+        "desc": "Adjustable 3 in. pintle eye"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Dexter spring"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "235/85R16 (E)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc hub piloted"
+      }
+    },
+    "features": [
+      "Safety Features:Safety chains with hooks; lockable tool box; 8 in. headboard; 3 lash rings on each side"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/AC-10/2018/NV1008042_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Tag-a-Long+Series+%26+Air+Tilt+Series/AC-10/5f18915cc185424e175ba2fb/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "AC-20",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Tag-a-Long Series & Air Tilt Series",
+      "description": "Talbert AC-20",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261367_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2 Spacing: 49 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Air, with 2S1M ABS"
+      },
+      "coupler": {
+        "label": "Coupler",
+        "desc": "Adjustable 3 in. pintle eye"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Hutch spring"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "215/75R17.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc hub piloted"
+      }
+    },
+    "features": [
+      "Safety Features:Safety chains with hooks; lockable tool box; 8 in. headboard; 3 lash rings on each side"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/AC-20/2018/NV1008043_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Tag-a-Long+Series+%26+Air+Tilt+Series/AC-20/5f18915cc185424e175ba2fc/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "AC-20ART",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Tag-a-Long Series & Air Tilt Series",
+      "description": "Talbert AC-20ART",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv5005564_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "2 Spacing: 49 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Air, with 2S1M ABS"
+      },
+      "coupler": {
+        "label": "Coupler",
+        "desc": "Adjustable 3 in. pintle eye"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Hutch spring"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "215/75R17.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc hub piloted"
+      }
+    },
+    "features": [
+      "Safety Features:Safety chains with hooks; lockable tool box; 8 in. headboard; 5 lash rings on each side"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/AC-20ART/2018/NV1122580_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Tag-a-Long+Series+%26+Air+Tilt+Series/AC-20ART/5f18915cc185424e175ba2fd/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "AC3-25",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Tag-a-Long Series & Air Tilt Series",
+      "description": "Talbert AC3-25",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv261365_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3 Spacing: Axle 1 - 2 = 49 in.; Axle 2 - 3 = 49-3/4 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Air, with 2S1M ABS"
+      },
+      "coupler": {
+        "label": "Coupler",
+        "desc": "Adjustable 3 in. pintle eye"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Hutch spring"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "215/75R17.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc hub piloted"
+      }
+    },
+    "features": [
+      "Safety Features:Safety chains with hooks; lockable tool box; 8 in. headboard; 4 lash rings on each side"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/AC3-25/2018/NV1008044_2.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Tag-a-Long+Series+%26+Air+Tilt+Series/AC3-25/5f18915dc185424e175ba2fe/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "AC3-25ART",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Tag-a-Long Series & Air Tilt Series",
+      "description": "Talbert AC3-25ART",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv5005652_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "3 Spacing:Axle 1 - 2 = 49 in.; Axle 2 - 3 = 49-3/4 in."
+      },
+      "brakes": {
+        "label": "Brakes",
+        "desc": "Air, with 2S1M ABS"
+      },
+      "coupler": {
+        "label": "Coupler",
+        "desc": "Adjustable 3 in. pintle eye"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Hutch spring"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "215/75R17.5 (H)"
+      },
+      "wheels": {
+        "label": "Wheels",
+        "desc": "Steel disc hub piloted"
+      }
+    },
+    "features": [
+      "Safety Features:Safety chains with hooks; lockable tool box; 8 in. headboard; 5 lash rings on each side"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/AC3-25ART/2018/NV1122581_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Tag-a-Long+Series+%26+Air+Tilt+Series/AC3-25ART/5f18915dc185424e175ba2ff/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "Drop Deck Oil Field",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Double Drop Series & Oil Field Series",
+      "description": "Talbert Drop Deck Oil Field",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv427859_1.jpg"
+      }
+    ],
+    "operational": {
+      "lights": {
+        "label": "Lights",
+        "desc": "DOT rubber mount with modular harness"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air ride"
+      },
+      "tires": {
+        "label": "Tires",
+        "desc": "Low profile 17.5 tires / low profile 22.5 tires"
+      }
+    },
+    "features": [
+      "Safety Features:4 pin pockets each side of lower deck - inside rub rails"
+    ],
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/DropDeckOilField/2018/NV427859_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Double+Drop+Series+%26+Oil+Field+Series/Drop+Deck+Oil+Field/5f18915bc185424e175ba2e7/"
+  },
+  {
+    "general": {
+      "manufacturer": "Talbert",
+      "model": "E-Nitro™ Series",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Equipment Trailers",
+      "subcategory": "Heavy Haul Trailers",
+      "description": "Talbert E-Nitro(tm) Series",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://s3.amazonaws.com/cws-cdn-east/nv265215_0.jpg"
+      }
+    ],
+    "operational": {
+      "axles": {
+        "label": "Axles",
+        "desc": "Spacing:54 in. - 14 ft. 1 in. spread 60 in. - 14 ft. 7 in. spread"
+      },
+      "suspension": {
+        "label": "Suspension",
+        "desc": "Ridewell air suspension"
+      }
+    },
+    "options": [
+      "Price, if shown, is Manufacturer's Suggested Retail Price (MSRP) and does not include government fees, taxes, dealer freight/preparation, dealer document preparation charges or any finance charges (if applicable). MSRP and/or final actual sales price will vary depending on options or accessories selected."
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://s3.amazonaws.com/cws-cdn-east/Talbert/E-Nitro153Series/2018/NV1008034_1.pdf"
+      }
+    ],
+    "productUri": "https://www.talbertmfg.com/showrooms/Talbert/Equipment+Trailers/Heavy+Haul+Trailers/E-Nitro%26%23153%3B+Series/5f18915cc185424e175ba2fa/"
+  }
+]

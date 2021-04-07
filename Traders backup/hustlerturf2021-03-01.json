@@ -1,0 +1,4806 @@
+[
+  {
+    "_id": "c8934edc40119ba4146920bdfe2b7619",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Dash Deck size: 34\"",
+      "year": 2021,
+      "msrp": 2299,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Hustler Ingenuity in a Small Yard Zero-Turn.The Dash is Hustler Turf's most compact residential mower designed for smaller property owners. The smaller design makes it ideal for garage storage and fitting through tight spaces like fence gates. The Dash's heavy-duty frame and front-end, along with its fabricated welded-steel deck is unmatched at this price point.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b413cde566a1ae27b13_Dash_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b48c752c97490653396_Dash42_profile.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b4db0c53648b3309c10_Dash42_rear.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b557caa8c1fe3e7a035_Dash42_rear_3-4_left.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b5c1f468d6c4273b124_Dash_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b6291b5e3de48177f06_Dash_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28cb6fb5b71db02e0df0a4_Dash_gate.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28cb22c6aa78d9af49f78f_Dash_compact.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28ca70567d11198d8d3a33_Dash_deckadjust.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28ca25fce3cb48bb31be98_Dash_brake.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28c9ee606f4f088e499e66_Dash_frame.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e276b1dfa0221cf0a139a58_DashDeck.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "10.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-1800(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "2.8 qts"
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 4"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "16 X 6.5-8"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Briggs & Stratton PowerBuilt"
+      }
+    },
+    "features": [
+      "10.5hp Briggs & Stratton Engine",
+      "34\" & 42\" decks",
+      "5mph mowing speed",
+      "2-year / 200 hour residential warranty",
+      "Easy Gate AccessEasily fits thru most gates making backyard mowing easy.Watch videoLearn More",
+      "Compact SizeIdeal for garage storage.Watch videoLearn More",
+      "Foot-Operated Deck LiftEasily adjusts deck height.Watch videoLearn More",
+      "Automatic Park BrakeAuto engages when steering levers are open.Watch videoLearn More",
+      "Welded Fully Tubular FrameHeavy-duty welded 1\" x 2\" fully tubular frame for unmatched durability.Watch videoLearn More",
+      "Welded Steel DeckHeavy-duty design for unmatched durability. Up to 42\" deck size available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1d4a1f75a98d766ab283a_Dash%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/dash",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "34\""
+      }
+    }
+  },
+  {
+    "_id": "94db28fe961c69f65d14797e82e329ef",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Dash Deck size: 42\"",
+      "year": 2021,
+      "msrp": 2299,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Hustler Ingenuity in a Small Yard Zero-Turn.The Dash is Hustler Turf's most compact residential mower designed for smaller property owners. The smaller design makes it ideal for garage storage and fitting through tight spaces like fence gates. The Dash's heavy-duty frame and front-end, along with its fabricated welded-steel deck is unmatched at this price point.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b413cde566a1ae27b13_Dash_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b48c752c97490653396_Dash42_profile.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b4db0c53648b3309c10_Dash42_rear.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b557caa8c1fe3e7a035_Dash42_rear_3-4_left.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b5c1f468d6c4273b124_Dash_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77b6291b5e3de48177f06_Dash_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28cb6fb5b71db02e0df0a4_Dash_gate.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28cb22c6aa78d9af49f78f_Dash_compact.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28ca70567d11198d8d3a33_Dash_deckadjust.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28ca25fce3cb48bb31be98_Dash_brake.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e28c9ee606f4f088e499e66_Dash_frame.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e276b1dfa0221cf0a139a58_DashDeck.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "10.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-1800(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "2.8 qts"
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 4"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "16 X 6.5-8"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Briggs & Stratton PowerBuilt"
+      }
+    },
+    "features": [
+      "10.5hp Briggs & Stratton Engine",
+      "34\" & 42\" decks",
+      "5mph mowing speed",
+      "2-year / 200 hour residential warranty",
+      "Easy Gate AccessEasily fits thru most gates making backyard mowing easy.Watch videoLearn More",
+      "Compact SizeIdeal for garage storage.Watch videoLearn More",
+      "Foot-Operated Deck LiftEasily adjusts deck height.Watch videoLearn More",
+      "Automatic Park BrakeAuto engages when steering levers are open.Watch videoLearn More",
+      "Welded Fully Tubular FrameHeavy-duty welded 1\" x 2\" fully tubular frame for unmatched durability.Watch videoLearn More",
+      "Welded Steel DeckHeavy-duty design for unmatched durability. Up to 42\" deck size available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1d4a1f75a98d766ab283a_Dash%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/dash",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "42\""
+      }
+    }
+  },
+  {
+    "_id": "99d3f28365ebc93cb08e8545a9288e9e",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Dash XD Deck size: 34\"",
+      "year": 2021,
+      "msrp": 2599,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Dash XD is the big brother of the Dash. The upgrades include more deck sizes, a more bolstered seat, more horsepower with a Kawasaki engine, and larger BigBite(tm) rear tires. At this price point, the Dash XD's beefy construction clearly separates it from other brands at this price point. This is a great replacement for an inefficient lawn tractor.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1ced1c8b0d22405ec01f2_DashXD.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb770d7acd5ca846800254_DashXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb64c262bb06edc5f67471_DashXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1cef5109a64c741c1f0a0_DashXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1ceea15c30aa3414365c6_DashXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1cf10e8121d4831d4a4bc_DashXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c3a86134ade14a9d7d0d_DashXD_engine-guard.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c2dfc0dffa4832aa3c91_DashXD_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c03ea23111084b7ca8e0_DashXD_bigbite.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-1800(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "2 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 4"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 6 - 8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki"
+      }
+    },
+    "features": [
+      "15hp & 18hp Kawasaki Engine",
+      "34\", 42\" & 48\" decks",
+      "6mph mowing speed",
+      "2-year / 200 hour residential warranty",
+      "Standard Engine GuardStylish and strong engine protection comes standard.Watch videoLearn More",
+      "Premium SeatBolstered with built-in lumbar support.Watch videoLearn More",
+      "18\" BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1d4a1f75a98d766ab283a_Dash%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/dash-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "34\""
+      }
+    }
+  },
+  {
+    "_id": "7f4208f98a743dd78f41cdbc5351504a",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Dash XD Deck size: 42\"",
+      "year": 2021,
+      "msrp": 2599,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Dash XD is the big brother of the Dash. The upgrades include more deck sizes, a more bolstered seat, more horsepower with a Kawasaki engine, and larger BigBite(tm) rear tires. At this price point, the Dash XD's beefy construction clearly separates it from other brands at this price point. This is a great replacement for an inefficient lawn tractor.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1ced1c8b0d22405ec01f2_DashXD.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb770d7acd5ca846800254_DashXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb64c262bb06edc5f67471_DashXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1cef5109a64c741c1f0a0_DashXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1ceea15c30aa3414365c6_DashXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1cf10e8121d4831d4a4bc_DashXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c3a86134ade14a9d7d0d_DashXD_engine-guard.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c2dfc0dffa4832aa3c91_DashXD_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c03ea23111084b7ca8e0_DashXD_bigbite.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-1800(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "2 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 4"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 8.5 - 8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki"
+      }
+    },
+    "features": [
+      "15hp & 18hp Kawasaki Engine",
+      "34\", 42\" & 48\" decks",
+      "6mph mowing speed",
+      "2-year / 200 hour residential warranty",
+      "Standard Engine GuardStylish and strong engine protection comes standard.Watch videoLearn More",
+      "Premium SeatBolstered with built-in lumbar support.Watch videoLearn More",
+      "18\" BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1d4a1f75a98d766ab283a_Dash%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/dash-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "42\""
+      }
+    }
+  },
+  {
+    "_id": "432821e1950465092f4b399c840e4a19",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Dash XD Deck size: 48\"",
+      "year": 2021,
+      "msrp": 2599,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Dash XD is the big brother of the Dash. The upgrades include more deck sizes, a more bolstered seat, more horsepower with a Kawasaki engine, and larger BigBite(tm) rear tires. At this price point, the Dash XD's beefy construction clearly separates it from other brands at this price point. This is a great replacement for an inefficient lawn tractor.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1ced1c8b0d22405ec01f2_DashXD.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb770d7acd5ca846800254_DashXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb64c262bb06edc5f67471_DashXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1cef5109a64c741c1f0a0_DashXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1ceea15c30aa3414365c6_DashXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1cf10e8121d4831d4a4bc_DashXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c3a86134ade14a9d7d0d_DashXD_engine-guard.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c2dfc0dffa4832aa3c91_DashXD_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2c03ea23111084b7ca8e0_DashXD_bigbite.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-1800(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "2 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 4"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 8.5 - 8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki"
+      }
+    },
+    "features": [
+      "15hp & 18hp Kawasaki Engine",
+      "34\", 42\" & 48\" decks",
+      "6mph mowing speed",
+      "2-year / 200 hour residential warranty",
+      "Standard Engine GuardStylish and strong engine protection comes standard.Watch videoLearn More",
+      "Premium SeatBolstered with built-in lumbar support.Watch videoLearn More",
+      "18\" BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1d4a1f75a98d766ab283a_Dash%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/dash-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "ae3184d80696bfe0228da380b230eb92",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor X Deck size: 42\"",
+      "year": 2021,
+      "msrp": 3099,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The legendary Raptor X packs all the performance and reliability Hustler is known for into a simple and durable design. We engineer our mowers to be maintenance and service friendly for the everyday homeowner. From the frame to the deck to our trademark steering, the Raptor X delivers a professional grade cut-quality for a perfectly manicured lawn. We've put thousands of hours of R&D and testing into the Raptor Series, which is why it's backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fc6aa7ef808abe4fa384174_raptorX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa06f1d9b45de5e3dbaaa8f_raptorX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fc6aa850244366239c77643_raptorX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7784c1d7543701b3d16a3_raptorX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77851733a79133f035adb_raptorX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff778565cca3761d1a07579_raptorX_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0881184d30714b5a93edc_raptorX-bigbite.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa086d3a9e0a3576b449731_raptorX-engine.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa08638eff562b2ce406d73_raptorX-seat.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2200"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 8.5-8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR600"
+      }
+    },
+    "features": [
+      "18hp, 21.5hp Kawasaki Engines",
+      "42\" & 54\" decks",
+      "7mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More",
+      "Premium EngineThe V-Twin Kawasaki(r) engine is the highest rated residential engine available.Watch videoLearn More",
+      "Premium SeatProvides a comfortable ride with armrests and added air flow to the back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-x",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "42\""
+      }
+    }
+  },
+  {
+    "_id": "80f44f043b1ff4d72275b88e037e94ae",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor X Deck size: 54\"",
+      "year": 2021,
+      "msrp": 3099,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The legendary Raptor X packs all the performance and reliability Hustler is known for into a simple and durable design. We engineer our mowers to be maintenance and service friendly for the everyday homeowner. From the frame to the deck to our trademark steering, the Raptor X delivers a professional grade cut-quality for a perfectly manicured lawn. We've put thousands of hours of R&D and testing into the Raptor Series, which is why it's backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fc6aa7ef808abe4fa384174_raptorX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa06f1d9b45de5e3dbaaa8f_raptorX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fc6aa850244366239c77643_raptorX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7784c1d7543701b3d16a3_raptorX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77851733a79133f035adb_raptorX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff778565cca3761d1a07579_raptorX_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0881184d30714b5a93edc_raptorX-bigbite.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa086d3a9e0a3576b449731_raptorX-engine.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa08638eff562b2ce406d73_raptorX-seat.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "21.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2200"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 10.5-8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR651"
+      }
+    },
+    "features": [
+      "18hp, 21.5hp Kawasaki Engines",
+      "42\" & 54\" decks",
+      "7mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More",
+      "Premium EngineThe V-Twin Kawasaki(r) engine is the highest rated residential engine available.Watch videoLearn More",
+      "Premium SeatProvides a comfortable ride with armrests and added air flow to the back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-x",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "535571ad1efc349d8218302807d7985b",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XL Deck size: 42\"",
+      "year": 2021,
+      "msrp": 3499,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XL features premium upgrades to the Raptor X. The XL provides some added comfort with a more premium seat and flex forks for a smoother ride. Also, there is an additional horsepower option with a 23hp Kawasaki FR Engine. More comfort and more power backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0712ce0ba4e50af671798_raptorXL_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3910746f9b35070b54f7a_raptorXL_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa07136d18e7b6d872ed041_raptorXL_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3911e44f6cc0e7b3523eb_raptorXL_7.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3912314e53283fba7e8ba_raptorXL_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3912846f9b32c8bb54f9d_raptorXL_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa089dc6788bc0dbadeda11_raptorXL-flex-forks.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa088bea7c3bfcadec7a2c3_raptorXL-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa086d3a9e0a3576b449731_raptorX-engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "21.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2200"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 8.5-8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR651"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp Kawasaki Engines",
+      "42\" & 54\" decks",
+      "7mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "FlexForks(r)Standard on the XL, these flexing front forks cushion the ride for a more comfortable mowing experience.Watch videoLearn More",
+      "Premium SeatCompared to Raptor X seat, the XL seat features a higher back and added padding with the same armrests and air flow to the back.Watch videoLearn More",
+      "Premium EngineThe V-Twin Kawasaki(r) engine is the highest rated residential engine available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xl",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "42\""
+      }
+    }
+  },
+  {
+    "_id": "16ea316a8fe27cb86b271f8b2c0cae13",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XL Deck size: 54\"",
+      "year": 2021,
+      "msrp": 3499,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XL features premium upgrades to the Raptor X. The XL provides some added comfort with a more premium seat and flex forks for a smoother ride. Also, there is an additional horsepower option with a 23hp Kawasaki FR Engine. More comfort and more power backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0712ce0ba4e50af671798_raptorXL_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3910746f9b35070b54f7a_raptorXL_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa07136d18e7b6d872ed041_raptorXL_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3911e44f6cc0e7b3523eb_raptorXL_7.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3912314e53283fba7e8ba_raptorXL_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff3912846f9b32c8bb54f9d_raptorXL_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa089dc6788bc0dbadeda11_raptorXL-flex-forks.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa088bea7c3bfcadec7a2c3_raptorXL-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa086d3a9e0a3576b449731_raptorX-engine.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2200"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 X 6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "18 X 10.5-8 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR691"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp Kawasaki Engines",
+      "42\" & 54\" decks",
+      "7mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "FlexForks(r)Standard on the XL, these flexing front forks cushion the ride for a more comfortable mowing experience.Watch videoLearn More",
+      "Premium SeatCompared to Raptor X seat, the XL seat features a higher back and added padding with the same armrests and air flow to the back.Watch videoLearn More",
+      "Premium EngineThe V-Twin Kawasaki(r) engine is the highest rated residential engine available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xl",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "06953c1cfbf3a08fbc85af223b641bd1",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XD Deck size: 42\"",
+      "year": 2021,
+      "msrp": 4099,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XD is the ideal zero-turn for homeowners with one to three acres of property. The up to 24hp Kawasaki horsepower and 60-inch deck option makes the XD a premium lawn mower in the residential zero-turn category. Like all Raptors, we've spent decades and thousands of hours perfecting our durable fabricated decks that provide a professional-grade cut-quality. Raptor XD's are backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0738ebdddf29008138963_raptorXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fcb0d2b4704a1ca399ef_raptorXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfc37e6573ab9c661076af_raptorXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0230f5fc30b7b7fa33_raptorXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0557e0982bd640f663_raptorXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd08640c3ca699b91e9d_raptorXD_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bf12262f87650941b43a_raptorXD-bigbite.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bd6896b4c70dc702e8ae_raptorXD-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bac15891f01369e90dac_raptorXD-deck.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "21.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2800"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 8-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR651"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp, 24hp Kawasaki Engines",
+      "42\" 48\", 54\" & 60\" decks",
+      "7.5mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More",
+      "Premium SeatPremium bolstered high-back seat with armrests and built-in lumbar support.Watch videoLearn More",
+      "Welded Steel DeckWelded fabricated steel deck adds durability & extends mower's life. Up to 60\" deck size available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "42\""
+      }
+    }
+  },
+  {
+    "_id": "8be77954e5ad1b9dbe56029cd6474f2b",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XD Deck size: 48\"",
+      "year": 2021,
+      "msrp": 4099,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XD is the ideal zero-turn for homeowners with one to three acres of property. The up to 24hp Kawasaki horsepower and 60-inch deck option makes the XD a premium lawn mower in the residential zero-turn category. Like all Raptors, we've spent decades and thousands of hours perfecting our durable fabricated decks that provide a professional-grade cut-quality. Raptor XD's are backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0738ebdddf29008138963_raptorXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fcb0d2b4704a1ca399ef_raptorXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfc37e6573ab9c661076af_raptorXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0230f5fc30b7b7fa33_raptorXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0557e0982bd640f663_raptorXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd08640c3ca699b91e9d_raptorXD_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bf12262f87650941b43a_raptorXD-bigbite.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bd6896b4c70dc702e8ae_raptorXD-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bac15891f01369e90dac_raptorXD-deck.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "21.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2800"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 8-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR651"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp, 24hp Kawasaki Engines",
+      "42\" 48\", 54\" & 60\" decks",
+      "7.5mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More",
+      "Premium SeatPremium bolstered high-back seat with armrests and built-in lumbar support.Watch videoLearn More",
+      "Welded Steel DeckWelded fabricated steel deck adds durability & extends mower's life. Up to 60\" deck size available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "97cb2518d63b7520de7bf02519857ab9",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XD Deck size: 54\"",
+      "year": 2021,
+      "msrp": 4099,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XD is the ideal zero-turn for homeowners with one to three acres of property. The up to 24hp Kawasaki horsepower and 60-inch deck option makes the XD a premium lawn mower in the residential zero-turn category. Like all Raptors, we've spent decades and thousands of hours perfecting our durable fabricated decks that provide a professional-grade cut-quality. Raptor XD's are backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0738ebdddf29008138963_raptorXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fcb0d2b4704a1ca399ef_raptorXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfc37e6573ab9c661076af_raptorXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0230f5fc30b7b7fa33_raptorXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0557e0982bd640f663_raptorXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd08640c3ca699b91e9d_raptorXD_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bf12262f87650941b43a_raptorXD-bigbite.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bd6896b4c70dc702e8ae_raptorXD-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bac15891f01369e90dac_raptorXD-deck.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2800"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 12-12 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR691"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp, 24hp Kawasaki Engines",
+      "42\" 48\", 54\" & 60\" decks",
+      "7.5mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More",
+      "Premium SeatPremium bolstered high-back seat with armrests and built-in lumbar support.Watch videoLearn More",
+      "Welded Steel DeckWelded fabricated steel deck adds durability & extends mower's life. Up to 60\" deck size available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "c27a4cd5fad3f15530bfb0d76508d750",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XD Deck size: 60\"",
+      "year": 2021,
+      "msrp": 4099,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XD is the ideal zero-turn for homeowners with one to three acres of property. The up to 24hp Kawasaki horsepower and 60-inch deck option makes the XD a premium lawn mower in the residential zero-turn category. Like all Raptors, we've spent decades and thousands of hours perfecting our durable fabricated decks that provide a professional-grade cut-quality. Raptor XD's are backed by an industry leading 3yr / 300hr warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0738ebdddf29008138963_raptorXD_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fcb0d2b4704a1ca399ef_raptorXD_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfc37e6573ab9c661076af_raptorXD_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0230f5fc30b7b7fa33_raptorXD_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd0557e0982bd640f663_raptorXD_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff5fd08640c3ca699b91e9d_raptorXD_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bf12262f87650941b43a_raptorXD-bigbite.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bd6896b4c70dc702e8ae_raptorXD-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1bac15891f01369e90dac_raptorXD-deck.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT2800"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 12-12 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR730"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp, 24hp Kawasaki Engines",
+      "42\" 48\", 54\" & 60\" decks",
+      "7.5mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "BigBite(tm) Rear TiresWe worked directly with the tire manufacturer on this design. You will not find them anywhere else.Watch videoLearn More",
+      "Premium SeatPremium bolstered high-back seat with armrests and built-in lumbar support.Watch videoLearn More",
+      "Welded Steel DeckWelded fabricated steel deck adds durability & extends mower's life. Up to 60\" deck size available.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xd",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\""
+      }
+    }
+  },
+  {
+    "_id": "8acc4806db8c9a6b8211c90241708a95",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XDX Deck size: 48\"",
+      "year": 2021,
+      "msrp": 5199,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XDX is at the top of the residential zero-turn category. It has commercial-grade features like a 10-gauge fabricated deck, cast steel deck hangers, vented and toolless removable pulley covers, and reaches up to 8mph with Hydro-Gear(r) ZT-3100(r) commercial transmissions. The 5-inch-deep deck allows the XDX to mow through thick grass at top speeds. The heavy-duty XDX is backed by an industry leading 3yr / 300hr warranty and 1yr / 300hr commercial warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074cabadcc88787ad7e53_raptorXDX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb93bf5c9ac82c45940158_raptorXDX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb93c1704d8e0c4cbc0c94_raptorXDX_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074d37d0aea699075363d_raptorXDX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074ce2932309a28b0b543_raptorXDX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfb97adcaa8621d87b4982_raptorXDX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c26c6313fd5bfef51ab0_raptorXDX-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c127d748ce8626328288_raptorXDX-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c064816d985e976cfc1e_raptorXDX-bigbite.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "21.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT3100"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "22 x 9.5-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR651"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp & 24hp Kawasaki Engines",
+      "48\", 54\" & 60\" decks",
+      "8mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "Commercial Grade DeckHeavy-duty 11 gauge steel and front bull nose bumper design for unmatched durability. Up to 60\" deck sizes available.Watch videoLearn More",
+      "Extra High-back SeatA premium extra high-back seat with armrests.Watch videoLearn More",
+      "22\" BigBite(tm) TiresMore aggressive tire to handle tough jobs.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xdx",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "fc826d08c14da8e56fa14228cada8929",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XDX Deck size: 54\"",
+      "year": 2021,
+      "msrp": 5199,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XDX is at the top of the residential zero-turn category. It has commercial-grade features like a 10-gauge fabricated deck, cast steel deck hangers, vented and toolless removable pulley covers, and reaches up to 8mph with Hydro-Gear(r) ZT-3100(r) commercial transmissions. The 5-inch-deep deck allows the XDX to mow through thick grass at top speeds. The heavy-duty XDX is backed by an industry leading 3yr / 300hr warranty and 1yr / 300hr commercial warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074cabadcc88787ad7e53_raptorXDX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb93bf5c9ac82c45940158_raptorXDX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb93c1704d8e0c4cbc0c94_raptorXDX_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074d37d0aea699075363d_raptorXDX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074ce2932309a28b0b543_raptorXDX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfb97adcaa8621d87b4982_raptorXDX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c26c6313fd5bfef51ab0_raptorXDX-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c127d748ce8626328288_raptorXDX-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c064816d985e976cfc1e_raptorXDX-bigbite.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT3100"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "22 x 11-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR691"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp & 24hp Kawasaki Engines",
+      "48\", 54\" & 60\" decks",
+      "8mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "Commercial Grade DeckHeavy-duty 11 gauge steel and front bull nose bumper design for unmatched durability. Up to 60\" deck sizes available.Watch videoLearn More",
+      "Extra High-back SeatA premium extra high-back seat with armrests.Watch videoLearn More",
+      "22\" BigBite(tm) TiresMore aggressive tire to handle tough jobs.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xdx",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "63fb04744e1a38a4df6f9fe2bd3b1592",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Raptor XDX Deck size: 60\"",
+      "year": 2021,
+      "msrp": 5199,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "The Raptor XDX is at the top of the residential zero-turn category. It has commercial-grade features like a 10-gauge fabricated deck, cast steel deck hangers, vented and toolless removable pulley covers, and reaches up to 8mph with Hydro-Gear(r) ZT-3100(r) commercial transmissions. The 5-inch-deep deck allows the XDX to mow through thick grass at top speeds. The heavy-duty XDX is backed by an industry leading 3yr / 300hr warranty and 1yr / 300hr commercial warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074cabadcc88787ad7e53_raptorXDX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb93bf5c9ac82c45940158_raptorXDX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdb93c1704d8e0c4cbc0c94_raptorXDX_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074d37d0aea699075363d_raptorXDX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa074ce2932309a28b0b543_raptorXDX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fcfb97adcaa8621d87b4982_raptorXDX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c26c6313fd5bfef51ab0_raptorXDX-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c127d748ce8626328288_raptorXDX-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c064816d985e976cfc1e_raptorXDX-bigbite.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT3100"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "22 x 11-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR730"
+      }
+    },
+    "features": [
+      "21.5hp, 23hp & 24hp Kawasaki Engines",
+      "48\", 54\" & 60\" decks",
+      "8mph mowing speed",
+      "3-year / 300 hour limited warranty",
+      "Commercial Grade DeckHeavy-duty 11 gauge steel and front bull nose bumper design for unmatched durability. Up to 60\" deck sizes available.Watch videoLearn More",
+      "Extra High-back SeatA premium extra high-back seat with armrests.Watch videoLearn More",
+      "22\" BigBite(tm) TiresMore aggressive tire to handle tough jobs.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa0702a9b45de7495baac50_Raptor%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/raptor-xdx",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\""
+      }
+    }
+  },
+  {
+    "_id": "3b075ea158422be48c80d4279ba6ed75",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Flip-Up Deck size: 48\"",
+      "year": 2021,
+      "msrp": 5299,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Automatically Raise, Lower, Adjust Deck Height.The Flip-Up features patented QuickFlip(tm) technology. Enjoy effortless cleaning and blade changing, automated deck height adjustment and less required storage space...all at the push of a button.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c3fcc33ded262a5202ae_FlipUp_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c402816d980bd36d09f0_FlipUp_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c40b70649ef35a3d551a_FlipUp_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c40e6313fd3df8f51ea2_FlipUp_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c414216b9e910c65cd1a_FlipUp_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c417682923624f44475f_FlipUp_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c9af370f82fd53ec9838_Flip-Up_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c8fc86b30734e643c529_Flip-Up_push-button.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c86f453b436a68c8cd05_Flip-Up_deck-up.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-2800(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11\" Pneumatic"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 8-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR691"
+      }
+    },
+    "features": [
+      "23hp Kawasaki Engine",
+      "48\" & 54\" decks",
+      "7mph mowing speed",
+      "3-year / 300 hour residential warranty",
+      "Premium SeatPremium bolstered seat with built-in lumbar support.Watch videoLearn More",
+      "Automated Deck Height AdjustmentRaise or lower the deck with ease.Watch videoLearn More",
+      "Push Button Deck LiftEffortless cleaning and blade changing at the push of a button.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c5924f88bbb4b3f17a5f_Flip-Up_2021_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/flip-up",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "21b34d35433f7232dc08a9bc0304092b",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Flip-Up Deck size: 54\"",
+      "year": 2021,
+      "msrp": 5299,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Automatically Raise, Lower, Adjust Deck Height.The Flip-Up features patented QuickFlip(tm) technology. Enjoy effortless cleaning and blade changing, automated deck height adjustment and less required storage space...all at the push of a button.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c3fcc33ded262a5202ae_FlipUp_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c402816d980bd36d09f0_FlipUp_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c40b70649ef35a3d551a_FlipUp_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c40e6313fd3df8f51ea2_FlipUp_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c414216b9e910c65cd1a_FlipUp_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c417682923624f44475f_FlipUp_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c9af370f82fd53ec9838_Flip-Up_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c8fc86b30734e643c529_Flip-Up_push-button.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c86f453b436a68c8cd05_Flip-Up_deck-up.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-2800(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11\" Pneumatic"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 10-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FR691"
+      }
+    },
+    "features": [
+      "23hp Kawasaki Engine",
+      "48\" & 54\" decks",
+      "7mph mowing speed",
+      "3-year / 300 hour residential warranty",
+      "Premium SeatPremium bolstered seat with built-in lumbar support.Watch videoLearn More",
+      "Automated Deck Height AdjustmentRaise or lower the deck with ease.Watch videoLearn More",
+      "Push Button Deck LiftEffortless cleaning and blade changing at the push of a button.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa1c5924f88bbb4b3f17a5f_Flip-Up_2021_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/flip-up",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 7 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "2d6e0ea8dfbe0fb3d8563ea56c0cfe45",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "FasTrak Deck size: 48\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Entry-Level Commercial MowerWith an upgraded engine and transmissions, the 2021 FasTrak is now a commercial-grade zero-turn mower. An ideal addition for any professional fleet, and a great option for farmers, ranchers and businesses with 5+ acres of property to maintain. The heavy-duty frame and deck construction of the FasTrak set it apart from any mower in this price range, and is backed by 4yr/750hr industry best warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e16add18211fb9b7d4db_FasTrak_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdbd3cbf07d3e3cee008e33_FasTrak_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e173b53e78f135f09608_FasTrak_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e1a20904d220ac302757_FasTrak_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdbd3c742963076cac18ef4_FasTrak_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e182dd1821a338b7d4e4_FasTrak_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e34d8b140e7a7a5aa7c7_Fastrak-wheel-motor.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e2c51b59483a940f948c_Fastrak-engine.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e23dde49903eca799c93_Fastrak-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29c738b5ded3a1041c36d7_ft-flipseat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e21db53e784e7af09823_Fastrak-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29c6f1e108d821cd232dd7_ft-removablepan.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-3200(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "23 x 9.5-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FT691"
+      }
+    },
+    "features": [
+      "22hp - 27hp Kawasaki & Kohler",
+      "48\", 54\" & 60\" decks",
+      "8mph mowing speed",
+      "4-year / 750 hour limited warranty",
+      "Commercial-Grade TransmissionServiceable commercial grade transmission, Hydro-Gear(r) ZT-3200(tm).Watch videoLearn More",
+      "Commercial-Grade EngineKawasaki(r) FT Engine With Vortical Air Filtration assists with cleaning debris that extends engine life.Watch videoLearn More",
+      "Premium SeatHigh-back seat with suspension to shield the operator from bumps and EVC cushion to take pressure off tail bone and lower back.Watch videoLearn More",
+      "Flip-Up Seat PanThe seat pan flips up to provide access under the seat without the use of tools.Watch videoLearn More",
+      "Heavy-Duty Decks and FrameCommercial-style decks and commercial-grade fully welded, tubular frame. Up to 60\" deck size available.Watch videoLearn More",
+      "Removable Floor PanFeatures a removable floor pan for ease of maintenance.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80b6d9f26147926d1f891_FasTrak%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/fastrak",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\", 48\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "ae0f7549841daad30494e9a2dd3b0d77",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "FasTrak Deck size: 54\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Entry-Level Commercial MowerWith an upgraded engine and transmissions, the 2021 FasTrak is now a commercial-grade zero-turn mower. An ideal addition for any professional fleet, and a great option for farmers, ranchers and businesses with 5+ acres of property to maintain. The heavy-duty frame and deck construction of the FasTrak set it apart from any mower in this price range, and is backed by 4yr/750hr industry best warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e16add18211fb9b7d4db_FasTrak_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdbd3cbf07d3e3cee008e33_FasTrak_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e173b53e78f135f09608_FasTrak_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e1a20904d220ac302757_FasTrak_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdbd3c742963076cac18ef4_FasTrak_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e182dd1821a338b7d4e4_FasTrak_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e34d8b140e7a7a5aa7c7_Fastrak-wheel-motor.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e2c51b59483a940f948c_Fastrak-engine.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e23dde49903eca799c93_Fastrak-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29c738b5ded3a1041c36d7_ft-flipseat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e21db53e784e7af09823_Fastrak-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29c6f1e108d821cd232dd7_ft-removablepan.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "27, 22"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-3200(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "23 x 11-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kohler 7500 EFI, Kawasaki FT691"
+      }
+    },
+    "features": [
+      "22hp - 27hp Kawasaki & Kohler",
+      "48\", 54\" & 60\" decks",
+      "8mph mowing speed",
+      "4-year / 750 hour limited warranty",
+      "Commercial-Grade TransmissionServiceable commercial grade transmission, Hydro-Gear(r) ZT-3200(tm).Watch videoLearn More",
+      "Commercial-Grade EngineKawasaki(r) FT Engine With Vortical Air Filtration assists with cleaning debris that extends engine life.Watch videoLearn More",
+      "Premium SeatHigh-back seat with suspension to shield the operator from bumps and EVC cushion to take pressure off tail bone and lower back.Watch videoLearn More",
+      "Flip-Up Seat PanThe seat pan flips up to provide access under the seat without the use of tools.Watch videoLearn More",
+      "Heavy-Duty Decks and FrameCommercial-style decks and commercial-grade fully welded, tubular frame. Up to 60\" deck size available.Watch videoLearn More",
+      "Removable Floor PanFeatures a removable floor pan for ease of maintenance.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80b6d9f26147926d1f891_FasTrak%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/fastrak",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\", 54\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "566c802fd16c954fa014ea0269743d74",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "FasTrak Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Entry-Level Commercial MowerWith an upgraded engine and transmissions, the 2021 FasTrak is now a commercial-grade zero-turn mower. An ideal addition for any professional fleet, and a great option for farmers, ranchers and businesses with 5+ acres of property to maintain. The heavy-duty frame and deck construction of the FasTrak set it apart from any mower in this price range, and is backed by 4yr/750hr industry best warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e16add18211fb9b7d4db_FasTrak_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdbd3cbf07d3e3cee008e33_FasTrak_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e173b53e78f135f09608_FasTrak_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e1a20904d220ac302757_FasTrak_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fdbd3c742963076cac18ef4_FasTrak_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e182dd1821a338b7d4e4_FasTrak_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e34d8b140e7a7a5aa7c7_Fastrak-wheel-motor.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e2c51b59483a940f948c_Fastrak-engine.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e23dde49903eca799c93_Fastrak-seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29c738b5ded3a1041c36d7_ft-flipseat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e21db53e784e7af09823_Fastrak-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29c6f1e108d821cd232dd7_ft-removablepan.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "24, 27"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-3200(tm)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "23 x 11-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FT730, Kohler 7500 EFI"
+      }
+    },
+    "features": [
+      "22hp - 27hp Kawasaki & Kohler",
+      "48\", 54\" & 60\" decks",
+      "8mph mowing speed",
+      "4-year / 750 hour limited warranty",
+      "Commercial-Grade TransmissionServiceable commercial grade transmission, Hydro-Gear(r) ZT-3200(tm).Watch videoLearn More",
+      "Commercial-Grade EngineKawasaki(r) FT Engine With Vortical Air Filtration assists with cleaning debris that extends engine life.Watch videoLearn More",
+      "Premium SeatHigh-back seat with suspension to shield the operator from bumps and EVC cushion to take pressure off tail bone and lower back.Watch videoLearn More",
+      "Flip-Up Seat PanThe seat pan flips up to provide access under the seat without the use of tools.Watch videoLearn More",
+      "Heavy-Duty Decks and FrameCommercial-style decks and commercial-grade fully welded, tubular frame. Up to 60\" deck size available.Watch videoLearn More",
+      "Removable Floor PanFeatures a removable floor pan for ease of maintenance.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80b6d9f26147926d1f891_FasTrak%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/fastrak",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\""
+      }
+    }
+  },
+  {
+    "_id": "a9477fcc99908648749ad0ec7515233d",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "FasTrak SDX Deck size: 48\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Commercial-Grade Power & PerformanceThe FasTrak(r) SDX offers commercial-grade power and performance at an unbeatable value. The heavy-duty and over-engineered construction of the deck, frame and front end makes this zero-turn the most durable in its class.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e8b0ce3bf9a8fd12abe_FasTrakSDX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e8f1d754342373d37e8_FasTrakSDX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e94cf77bfff062cac94_FasTrakSDX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e9d97f12e035de3b538_FasTrakSDX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77ea6fede89293c6a37b4_FasTrakSDX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e9abe7e748909e5ab4d6_FasTrakSDX_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e9966ac1b014256b1c01_FasTrakSDX_transmission.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e96fdddcabb6d9b3c491_FasTrakSDX_engine.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-3400(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 5-6 smooth"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "23 x 9.5-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX691"
+      }
+    },
+    "features": [
+      "22hp, 23.5hp Kawasaki Engines",
+      "48\", 54\" & 60\" decks",
+      "9mph mowing speed",
+      "4-year / 1000 hour limited warranty",
+      "Full Suspension SeatFeatures an extra high back, an industrial tubular frame, and armrests. Additional bolstering for better side-to-side support, and internal suspension to absorb bumps. Engineered cushions add extra support and protection to relieve pressure on your spine and lower back.Watch videoLearn More",
+      "Serviceable Commercial-Grade TransmissionsBuilt with Hydro-Gear's commercial-grade serviceable transmissions.Watch videoLearn More",
+      "Remote Cannister Air CleanerKeep your engine cooler and healthier with the protection a commercial mower needs to operate at peak efficiency.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2d87b422da403361db3ee_FasTrak%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/fastrak-sdx",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 9 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "4392f1a7146e3f3253001c8aef87e71a",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "FasTrak SDX Deck size: 54\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Commercial-Grade Power & PerformanceThe FasTrak(r) SDX offers commercial-grade power and performance at an unbeatable value. The heavy-duty and over-engineered construction of the deck, frame and front end makes this zero-turn the most durable in its class.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e8b0ce3bf9a8fd12abe_FasTrakSDX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e8f1d754342373d37e8_FasTrakSDX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e94cf77bfff062cac94_FasTrakSDX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e9d97f12e035de3b538_FasTrakSDX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77ea6fede89293c6a37b4_FasTrakSDX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e9abe7e748909e5ab4d6_FasTrakSDX_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e9966ac1b014256b1c01_FasTrakSDX_transmission.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e96fdddcabb6d9b3c491_FasTrakSDX_engine.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-3400(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "23 x 11-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX691"
+      }
+    },
+    "features": [
+      "22hp, 23.5hp Kawasaki Engines",
+      "48\", 54\" & 60\" decks",
+      "9mph mowing speed",
+      "4-year / 1000 hour limited warranty",
+      "Full Suspension SeatFeatures an extra high back, an industrial tubular frame, and armrests. Additional bolstering for better side-to-side support, and internal suspension to absorb bumps. Engineered cushions add extra support and protection to relieve pressure on your spine and lower back.Watch videoLearn More",
+      "Serviceable Commercial-Grade TransmissionsBuilt with Hydro-Gear's commercial-grade serviceable transmissions.Watch videoLearn More",
+      "Remote Cannister Air CleanerKeep your engine cooler and healthier with the protection a commercial mower needs to operate at peak efficiency.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2d87b422da403361db3ee_FasTrak%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/fastrak-sdx",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 9 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "61c69080410373775af2c9c83b4d7a20",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "FasTrak SDX Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Commercial-Grade Power & PerformanceThe FasTrak(r) SDX offers commercial-grade power and performance at an unbeatable value. The heavy-duty and over-engineered construction of the deck, frame and front end makes this zero-turn the most durable in its class.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e8b0ce3bf9a8fd12abe_FasTrakSDX_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e8f1d754342373d37e8_FasTrakSDX_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e94cf77bfff062cac94_FasTrakSDX_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77e9d97f12e035de3b538_FasTrakSDX_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77ea6fede89293c6a37b4_FasTrakSDX_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e9abe7e748909e5ab4d6_FasTrakSDX_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e9966ac1b014256b1c01_FasTrakSDX_transmission.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2e96fdddcabb6d9b3c491_FasTrakSDX_engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "23.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-3400(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6 smooth"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "23 x 11-10 BigBite(tm)"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX730"
+      }
+    },
+    "features": [
+      "22hp, 23.5hp Kawasaki Engines",
+      "48\", 54\" & 60\" decks",
+      "9mph mowing speed",
+      "4-year / 1000 hour limited warranty",
+      "Full Suspension SeatFeatures an extra high back, an industrial tubular frame, and armrests. Additional bolstering for better side-to-side support, and internal suspension to absorb bumps. Engineered cushions add extra support and protection to relieve pressure on your spine and lower back.Watch videoLearn More",
+      "Serviceable Commercial-Grade TransmissionsBuilt with Hydro-Gear's commercial-grade serviceable transmissions.Watch videoLearn More",
+      "Remote Cannister Air CleanerKeep your engine cooler and healthier with the protection a commercial mower needs to operate at peak efficiency.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2d87b422da403361db3ee_FasTrak%20Series%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/fastrak-sdx",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 9 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\""
+      }
+    }
+  },
+  {
+    "_id": "295f06646b66c93d6afa8bbe47b254c3",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "X-ONE Deck size: 52\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Built For All Day, Every Day Performance.The X-ONE(r) is built for the full-time commercial landscaper to provide all day, every day performance. It offers a choice of carbureted or fuel-injected engines and a selection of side or rear-discharge decks. The X-ONE sets the standard for commercial zero-turn value.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fb61f468d9b7073cbb6_X-ONE_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ec5b6ac1b0f43f6b292a_X-ONE_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fc5781a6f34dd9097dd_X-ONE_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fcb70325c5d17f5400f_X-ONE_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f975d75ec15081ffb742_X-ONE_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f9277e7903577ed2b107_X-ONE_engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "27, 25"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Parker unitized 12cc/rev pump with 15.9ci/rev wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 9.5-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX850, Kohler Command Pro"
+      }
+    },
+    "features": [
+      "23.5hp-29.5hp Kawasaki & Kohler",
+      "52\", 54\", 60\" & 72\" decks",
+      "10.5mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX DeckEngineered for extreme vaccum, the all new Hustler VX deck more efficiently draws the grass up into the mower blades providing a cleaner cut which in turn creates a superior after cut appearance.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More",
+      "Incredible PowerPower through with Parker unitized 12cc/rev pumps. Finish fast with a choice of engine sizes.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ed5538e2b3ad6a6b1d78_X-ONE%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/x-one",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 10.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "52\""
+      }
+    }
+  },
+  {
+    "_id": "d2d8a6644a0d1918f382c2586eb4f16e",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "X-ONE Deck size: 54\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Built For All Day, Every Day Performance.The X-ONE(r) is built for the full-time commercial landscaper to provide all day, every day performance. It offers a choice of carbureted or fuel-injected engines and a selection of side or rear-discharge decks. The X-ONE sets the standard for commercial zero-turn value.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fb61f468d9b7073cbb6_X-ONE_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ec5b6ac1b0f43f6b292a_X-ONE_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fc5781a6f34dd9097dd_X-ONE_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fcb70325c5d17f5400f_X-ONE_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f975d75ec15081ffb742_X-ONE_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f9277e7903577ed2b107_X-ONE_engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "23.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Parker unitized 12cc/rev pump with 15.9ci/rev wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 9.5-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX730"
+      }
+    },
+    "features": [
+      "23.5hp-29.5hp Kawasaki & Kohler",
+      "52\", 54\", 60\" & 72\" decks",
+      "10.5mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX DeckEngineered for extreme vaccum, the all new Hustler VX deck more efficiently draws the grass up into the mower blades providing a cleaner cut which in turn creates a superior after cut appearance.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More",
+      "Incredible PowerPower through with Parker unitized 12cc/rev pumps. Finish fast with a choice of engine sizes.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ed5538e2b3ad6a6b1d78_X-ONE%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/x-one",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 10.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "e85ac0d205cf479a3e5bfcf9f71a95a1",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "X-ONE Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Built For All Day, Every Day Performance.The X-ONE(r) is built for the full-time commercial landscaper to provide all day, every day performance. It offers a choice of carbureted or fuel-injected engines and a selection of side or rear-discharge decks. The X-ONE sets the standard for commercial zero-turn value.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fb61f468d9b7073cbb6_X-ONE_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ec5b6ac1b0f43f6b292a_X-ONE_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fc5781a6f34dd9097dd_X-ONE_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fcb70325c5d17f5400f_X-ONE_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f975d75ec15081ffb742_X-ONE_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f9277e7903577ed2b107_X-ONE_engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "23.5, 27, 29.5, 25"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Parker unitized 12cc/rev pump with 15.9ci/rev wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX730, Kawasaki FX850, Kawasaki FX850 EFI, KOHLER Command Pro"
+      }
+    },
+    "features": [
+      "23.5hp-29.5hp Kawasaki & Kohler",
+      "52\", 54\", 60\" & 72\" decks",
+      "10.5mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX DeckEngineered for extreme vaccum, the all new Hustler VX deck more efficiently draws the grass up into the mower blades providing a cleaner cut which in turn creates a superior after cut appearance.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More",
+      "Incredible PowerPower through with Parker unitized 12cc/rev pumps. Finish fast with a choice of engine sizes.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ed5538e2b3ad6a6b1d78_X-ONE%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/x-one",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 10.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\", 60\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "ab32da7987a30581a3e879c848332e09",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "X-ONE Deck size: 72\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Built For All Day, Every Day Performance.The X-ONE(r) is built for the full-time commercial landscaper to provide all day, every day performance. It offers a choice of carbureted or fuel-injected engines and a selection of side or rear-discharge decks. The X-ONE sets the standard for commercial zero-turn value.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fb61f468d9b7073cbb6_X-ONE_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ec5b6ac1b0f43f6b292a_X-ONE_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fc5781a6f34dd9097dd_X-ONE_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff77fcb70325c5d17f5400f_X-ONE_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f975d75ec15081ffb742_X-ONE_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2f9277e7903577ed2b107_X-ONE_engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "27, 29.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Parker unitized 12cc/rev pump with 15.9ci/rev wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX850, FX850 EFI"
+      }
+    },
+    "features": [
+      "23.5hp-29.5hp Kawasaki & Kohler",
+      "52\", 54\", 60\" & 72\" decks",
+      "10.5mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX DeckEngineered for extreme vaccum, the all new Hustler VX deck more efficiently draws the grass up into the mower blades providing a cleaner cut which in turn creates a superior after cut appearance.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More",
+      "Incredible PowerPower through with Parker unitized 12cc/rev pumps. Finish fast with a choice of engine sizes.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa2ed5538e2b3ad6a6b1d78_X-ONE%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/x-one",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 10.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "72\""
+      }
+    }
+  },
+  {
+    "_id": "ded8d44bf37eb7b92a6cece5f74df397",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super Z Deck size: 54\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Features Hustler's VX4 Deck, Heavy-Duty Hydraulics.The Super Z(r) stands apart with Hustler's acclaimed VX4(r) deck technology proven to cut and disperse grass more quickly and efficiently regardless of conditions.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c3fe0055b71eaaa1d9_superZ_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c8840de813de123355_superZ_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780cd583af14652267eba_superZ_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780d26a78a723d03baa78_superZ_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d4367f47220a02d1d714_SZ_hydraulics.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 21cc PY pumps with Parker TG310 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 9.5-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX850"
+      }
+    },
+    "features": [
+      "27hp - 38.5hp Kawasaki Engines",
+      "54\", 60\" 66\" & 72\" decks",
+      "14mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More",
+      "Unmatched HydraulicsHeavy-duty hydraulics deliver more power, torque than many other machines.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa30d370f726a279bdce623_SuperZ_HyperDrive.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-z",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 14 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "143923e500ebdf87da9434630e58de2b",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super Z Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Features Hustler's VX4 Deck, Heavy-Duty Hydraulics.The Super Z(r) stands apart with Hustler's acclaimed VX4(r) deck technology proven to cut and disperse grass more quickly and efficiently regardless of conditions.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c3fe0055b71eaaa1d9_superZ_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c8840de813de123355_superZ_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780cd583af14652267eba_superZ_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780d26a78a723d03baa78_superZ_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d4367f47220a02d1d714_SZ_hydraulics.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "27, 35, 38.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 21cc PY pumps with Parker TG310 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX850, Kawasaki FX1000, Kawasaki FX1000 EFI"
+      }
+    },
+    "features": [
+      "27hp - 38.5hp Kawasaki Engines",
+      "54\", 60\" 66\" & 72\" decks",
+      "14mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More",
+      "Unmatched HydraulicsHeavy-duty hydraulics deliver more power, torque than many other machines.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa30d370f726a279bdce623_SuperZ_HyperDrive.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-z",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 14 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\", 60\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "fab8d7a05d1e0ea05d282ef8a912f0aa",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super Z Deck size: 66\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Features Hustler's VX4 Deck, Heavy-Duty Hydraulics.The Super Z(r) stands apart with Hustler's acclaimed VX4(r) deck technology proven to cut and disperse grass more quickly and efficiently regardless of conditions.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c3fe0055b71eaaa1d9_superZ_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c8840de813de123355_superZ_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780cd583af14652267eba_superZ_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780d26a78a723d03baa78_superZ_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d4367f47220a02d1d714_SZ_hydraulics.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 21cc PY pumps with Parker TG310 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX1000"
+      }
+    },
+    "features": [
+      "27hp - 38.5hp Kawasaki Engines",
+      "54\", 60\" 66\" & 72\" decks",
+      "14mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More",
+      "Unmatched HydraulicsHeavy-duty hydraulics deliver more power, torque than many other machines.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa30d370f726a279bdce623_SuperZ_HyperDrive.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-z",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 14 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "66\""
+      }
+    }
+  },
+  {
+    "_id": "611fab274656e52b6feba804344e3e90",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super Z Deck size: 72\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Features Hustler's VX4 Deck, Heavy-Duty Hydraulics.The Super Z(r) stands apart with Hustler's acclaimed VX4(r) deck technology proven to cut and disperse grass more quickly and efficiently regardless of conditions.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c3fe0055b71eaaa1d9_superZ_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780c8840de813de123355_superZ_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780cd583af14652267eba_superZ_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff780d26a78a723d03baa78_superZ_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d4367f47220a02d1d714_SZ_hydraulics.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "35, 38.5, 27"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 21cc PY pumps with Parker TG310 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX1000, FX1000 EFI, FX850"
+      }
+    },
+    "features": [
+      "27hp - 38.5hp Kawasaki Engines",
+      "54\", 60\" 66\" & 72\" decks",
+      "14mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More",
+      "Unmatched HydraulicsHeavy-duty hydraulics deliver more power, torque than many other machines.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa30d370f726a279bdce623_SuperZ_HyperDrive.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-z",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 14 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "72\", 72\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "260d27dc24eea44a4361e276ed2f4ca4",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "HyperDrive Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Powerhouse that Delivers Unrivaled Performance.The HyperDrive(r) features Hustler's exclusive HyperDrive transmission system - the largest, most durable drive system in the industry. And, it's backed by a 3,000 hour drive system warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781e1c752c98f7f654c12_hyperdrive_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781e72f9bd3a1b0d0e6b3_hyperdrive_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781eb069e31d78d8fc9b9_hyperdrive_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781f5e798f9ff20d30f8d_hyperdrive_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa3254242f1a7d4a721bc5d_HyperDrive_vanguard.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa32446f4ec2f760cc0cc9f_HyperDrive_drivetire.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d8f4e59cfd9a311104a2_SZ_HyperDrive_warranty.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d89c58919a297406a1fd_SZ_HyperDrive_hydros.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "36, 37, 35, 38.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Danfoss DDC-20 Transmission w/Parker TG280 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "26 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Vanguard Big Block, Big Block EFI, Big Block EFI Oil Guard & Kawasaki FX1000, FX1000 EFI"
+      }
+    },
+    "features": [
+      "35hp-38.5hp Vanguard & Kawasaki",
+      "60\", 66\" & 72\" decks",
+      "16mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Large Drive TireLarge 26\" drive tires provide a smoother ride experience.Watch videoLearn More",
+      "Hydraulic System Warranty3000-Hour pump and motor warranty unmatched in the industry.Watch videoLearn More",
+      "HyperDrive Hydro SystemA Hustler(r) exclusive, industrial pumps and high torque wheel motors, 3-gallon reservoir, oil cooler and hot oil shuttle.Watch videoLearn More",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More"
+    ],
+    "options": [
+      "Vanguard Big Block(tm) EFIOptional Vanguard(r) Big Block(tm) EFI engine with Oil Guard. (500 hour oil change)Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6005fa8ab9d7276f89cc7b81_SuperZ_HyperDrive_1-14-21.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/hyperdrive",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 16 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\", 60\" RD"
+      }
+    }
+  },
+  {
+    "_id": "77b97e6cde039a0b75b5b1c9ff456e59",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "HyperDrive Deck size: 66\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Powerhouse that Delivers Unrivaled Performance.The HyperDrive(r) features Hustler's exclusive HyperDrive transmission system - the largest, most durable drive system in the industry. And, it's backed by a 3,000 hour drive system warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781e1c752c98f7f654c12_hyperdrive_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781e72f9bd3a1b0d0e6b3_hyperdrive_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781eb069e31d78d8fc9b9_hyperdrive_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781f5e798f9ff20d30f8d_hyperdrive_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa3254242f1a7d4a721bc5d_HyperDrive_vanguard.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa32446f4ec2f760cc0cc9f_HyperDrive_drivetire.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d8f4e59cfd9a311104a2_SZ_HyperDrive_warranty.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d89c58919a297406a1fd_SZ_HyperDrive_hydros.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Dual Hydrostatic Danfoss DDC-20 Transmission w/Parker TG280 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "26 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Vanguard BigBlock(tm) EFI"
+      }
+    },
+    "features": [
+      "35hp-38.5hp Vanguard & Kawasaki",
+      "60\", 66\" & 72\" decks",
+      "16mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Large Drive TireLarge 26\" drive tires provide a smoother ride experience.Watch videoLearn More",
+      "Hydraulic System Warranty3000-Hour pump and motor warranty unmatched in the industry.Watch videoLearn More",
+      "HyperDrive Hydro SystemA Hustler(r) exclusive, industrial pumps and high torque wheel motors, 3-gallon reservoir, oil cooler and hot oil shuttle.Watch videoLearn More",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More"
+    ],
+    "options": [
+      "Vanguard Big Block(tm) EFIOptional Vanguard(r) Big Block(tm) EFI engine with Oil Guard. (500 hour oil change)Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6005fa8ab9d7276f89cc7b81_SuperZ_HyperDrive_1-14-21.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/hyperdrive",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 16 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "66\""
+      }
+    }
+  },
+  {
+    "_id": "b5823645e7da52925fe242e3fda32bd0",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "HyperDrive Deck size: 72\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Powerhouse that Delivers Unrivaled Performance.The HyperDrive(r) features Hustler's exclusive HyperDrive transmission system - the largest, most durable drive system in the industry. And, it's backed by a 3,000 hour drive system warranty.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781e1c752c98f7f654c12_hyperdrive_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781e72f9bd3a1b0d0e6b3_hyperdrive_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781eb069e31d78d8fc9b9_hyperdrive_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff781f5e798f9ff20d30f8d_hyperdrive_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa3254242f1a7d4a721bc5d_HyperDrive_vanguard.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa32446f4ec2f760cc0cc9f_HyperDrive_drivetire.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d8f4e59cfd9a311104a2_SZ_HyperDrive_warranty.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d89c58919a297406a1fd_SZ_HyperDrive_hydros.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "36, 37, 37, 35, 38.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Dual Hydrostatic Danfoss DDC-20 Transmission w/Parker TG280 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "11.7 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "26 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Vanguard Big Block, Big Block EFI, Big Block EFI Oil Guard & Kawasaki FX1000, FX1000 EFI"
+      }
+    },
+    "features": [
+      "35hp-38.5hp Vanguard & Kawasaki",
+      "60\", 66\" & 72\" decks",
+      "16mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Large Drive TireLarge 26\" drive tires provide a smoother ride experience.Watch videoLearn More",
+      "Hydraulic System Warranty3000-Hour pump and motor warranty unmatched in the industry.Watch videoLearn More",
+      "HyperDrive Hydro SystemA Hustler(r) exclusive, industrial pumps and high torque wheel motors, 3-gallon reservoir, oil cooler and hot oil shuttle.Watch videoLearn More",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More"
+    ],
+    "options": [
+      "Vanguard Big Block(tm) EFIOptional Vanguard(r) Big Block(tm) EFI engine with Oil Guard. (500 hour oil change)Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6005fa8ab9d7276f89cc7b81_SuperZ_HyperDrive_1-14-21.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/hyperdrive",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 16 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "72\", 72\" RD"
+      }
+    }
+  },
+  {
+    "_id": "e96b74f6810ab74aa0bd13c914e0021e",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "TrimStar Deck size: 36\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Walk-Behind With Maximum Stability, Ease-Of-Control.Hustler's TrimStar(r) is a perfect addition to any commercial mower fleet. It makes access to hard-to-reach spots easy and is designed to help reduce operator fatigue.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78520e5e138224f9ebfd7_trimstar_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785314b3c1179e1b901a8_trimstar_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78539cc688c1d511a9979_trimstar_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7853e5172cd9180cecaa5_trimstar_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785436672528b3c8922f8_trimstar_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7854823874b59033e8a08_trimstar_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4303f92ba1c7de12ddd12_Trimstar_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ee5ea571307c61997c9_Trimstar_service2020.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ff26e458c5974d1f2d4_Trimstar_hydros-studio.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42f5bfb6d8206311ae3f3_Trimstar_deck-lift-2020b.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa40c0ad68450125cef4c19_TrimStar_h-bar-steering.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-2800(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3.4 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 x 4-5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 6.5-10"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FS541"
+      }
+    },
+    "features": [
+      "15hp - 21.5hp Kawasaki Engines",
+      "36\", 48\", 54\" & 60\" decks",
+      "6.3mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Welded Steel DeckDurable 10 ga. plus 11ga. reinforced steel with 11 ga. formed channel rolled edge.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Dual Hydro SystemHeavy-duty traction and performance.Watch videoLearn More",
+      "Deck LiftEasy-to-operate deck lift makes deck height adjustment a breeze.Watch videoLearn More",
+      "H-Bar(r) Steering Patented steering is the easiest-to-use walk-behind system in the field, reducing operator fatigue.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa407f7dd4a780de7fecec8_TrimStar_2021_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/trimstar",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6.3 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "36\""
+      }
+    }
+  },
+  {
+    "_id": "c32ff9a4937d7e8f9e468bd7b1c420f8",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "TrimStar Deck size: 48\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Walk-Behind With Maximum Stability, Ease-Of-Control.Hustler's TrimStar(r) is a perfect addition to any commercial mower fleet. It makes access to hard-to-reach spots easy and is designed to help reduce operator fatigue.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78520e5e138224f9ebfd7_trimstar_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785314b3c1179e1b901a8_trimstar_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78539cc688c1d511a9979_trimstar_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7853e5172cd9180cecaa5_trimstar_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785436672528b3c8922f8_trimstar_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7854823874b59033e8a08_trimstar_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4303f92ba1c7de12ddd12_Trimstar_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ee5ea571307c61997c9_Trimstar_service2020.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ff26e458c5974d1f2d4_Trimstar_hydros-studio.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42f5bfb6d8206311ae3f3_Trimstar_deck-lift-2020b.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa40c0ad68450125cef4c19_TrimStar_h-bar-steering.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "18.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-2800(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3.4 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 x 4-5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 8-10"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FS600"
+      }
+    },
+    "features": [
+      "15hp - 21.5hp Kawasaki Engines",
+      "36\", 48\", 54\" & 60\" decks",
+      "6.3mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Welded Steel DeckDurable 10 ga. plus 11ga. reinforced steel with 11 ga. formed channel rolled edge.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Dual Hydro SystemHeavy-duty traction and performance.Watch videoLearn More",
+      "Deck LiftEasy-to-operate deck lift makes deck height adjustment a breeze.Watch videoLearn More",
+      "H-Bar(r) Steering Patented steering is the easiest-to-use walk-behind system in the field, reducing operator fatigue.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa407f7dd4a780de7fecec8_TrimStar_2021_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/trimstar",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6.3 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "b458e4c769bed96df530449492476ec6",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "TrimStar Deck size: 54\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Walk-Behind With Maximum Stability, Ease-Of-Control.Hustler's TrimStar(r) is a perfect addition to any commercial mower fleet. It makes access to hard-to-reach spots easy and is designed to help reduce operator fatigue.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78520e5e138224f9ebfd7_trimstar_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785314b3c1179e1b901a8_trimstar_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78539cc688c1d511a9979_trimstar_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7853e5172cd9180cecaa5_trimstar_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785436672528b3c8922f8_trimstar_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7854823874b59033e8a08_trimstar_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4303f92ba1c7de12ddd12_Trimstar_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ee5ea571307c61997c9_Trimstar_service2020.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ff26e458c5974d1f2d4_Trimstar_hydros-studio.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42f5bfb6d8206311ae3f3_Trimstar_deck-lift-2020b.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa40c0ad68450125cef4c19_TrimStar_h-bar-steering.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "18.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-2800(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3.4 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 x 4-5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 10-10"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FS600"
+      }
+    },
+    "features": [
+      "15hp - 21.5hp Kawasaki Engines",
+      "36\", 48\", 54\" & 60\" decks",
+      "6.3mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Welded Steel DeckDurable 10 ga. plus 11ga. reinforced steel with 11 ga. formed channel rolled edge.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Dual Hydro SystemHeavy-duty traction and performance.Watch videoLearn More",
+      "Deck LiftEasy-to-operate deck lift makes deck height adjustment a breeze.Watch videoLearn More",
+      "H-Bar(r) Steering Patented steering is the easiest-to-use walk-behind system in the field, reducing operator fatigue.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa407f7dd4a780de7fecec8_TrimStar_2021_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/trimstar",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6.3 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "54\""
+      }
+    }
+  },
+  {
+    "_id": "b2c6e9bf1eea098264ba666afc826f2a",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "TrimStar Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Walk-Behind With Maximum Stability, Ease-Of-Control.Hustler's TrimStar(r) is a perfect addition to any commercial mower fleet. It makes access to hard-to-reach spots easy and is designed to help reduce operator fatigue.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78520e5e138224f9ebfd7_trimstar_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785314b3c1179e1b901a8_trimstar_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78539cc688c1d511a9979_trimstar_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7853e5172cd9180cecaa5_trimstar_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff785436672528b3c8922f8_trimstar_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7854823874b59033e8a08_trimstar_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4303f92ba1c7de12ddd12_Trimstar_deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ee5ea571307c61997c9_Trimstar_service2020.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42ff26e458c5974d1f2d4_Trimstar_hydros-studio.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa42f5bfb6d8206311ae3f3_Trimstar_deck-lift-2020b.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa40c0ad68450125cef4c19_TrimStar_h-bar-steering.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "21.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear ZT-2800(r)"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "3.4 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 4.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 x 4-5"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 10-10"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FS651"
+      }
+    },
+    "features": [
+      "15hp - 21.5hp Kawasaki Engines",
+      "36\", 48\", 54\" & 60\" decks",
+      "6.3mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Welded Steel DeckDurable 10 ga. plus 11ga. reinforced steel with 11 ga. formed channel rolled edge.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Dual Hydro SystemHeavy-duty traction and performance.Watch videoLearn More",
+      "Deck LiftEasy-to-operate deck lift makes deck height adjustment a breeze.Watch videoLearn More",
+      "H-Bar(r) Steering Patented steering is the easiest-to-use walk-behind system in the field, reducing operator fatigue.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa407f7dd4a780de7fecec8_TrimStar_2021_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/trimstar",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 6.3 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\""
+      }
+    }
+  },
+  {
+    "_id": "ca455842494cf4fffd4b61a649e93014",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super S Deck size: 36\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Stand-On With Exceptional Operator Comfort, Control And Maneuverability.Hustler's Super S(r) features superior operator comfort and positioning, operator-friendly controls and a compact stance that makes navigating tight spaces easy.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d16769967dfa604ae8_superS_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d598847e2b06349352_superS_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788da676996187d604aef_superS_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788de31165a5be63a683f_superS_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e2d54156ebe969e472_superS_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e7808c8b810feb1208_superS_7.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45429d64040120b7c6000_superS-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4535f64bdb22b80208a18_superS-compact.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29e0e5582efb1cdb04fd0c_SuperS_ServiceFriendly.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45382cf2f117ead90cea1_superS-control-panel.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa453b65dbec02f947b84bf_superS-operator-pad.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "15, 19"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 10cc pump with Parker TL0195 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "6.5 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "11 x 4-5 Semi Pneumatic"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "20 x 8-10"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FS541, FX600"
+      }
+    },
+    "features": [
+      "15hp - 29.5hp Kawasaki Engines",
+      "36\", 48\", 52\" & 60\" decks",
+      "Up to 9 mph",
+      "5-year / 500 hour limited warranty",
+      "VX DeckFabricated 7 ga. steel engineered for extreme vacuum for enhanced performance and cut quality.Watch videoLearn More",
+      "Compact DesignSmall footprint, can go where other machines can't.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Ergonomic ControlsProvides less operator fatigue, easy to handle.Watch videoLearn More",
+      "Operator ComfortAdjustable spring loaded suspension foot platform for all-day comfort.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80df114df996e98888a56_Stand-On%20Series%202021%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-s",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 8 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "36\""
+      }
+    }
+  },
+  {
+    "_id": "d6cb71a3765566a295006ddc7711fcbc",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super S Deck size: 48\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Stand-On With Exceptional Operator Comfort, Control And Maneuverability.Hustler's Super S(r) features superior operator comfort and positioning, operator-friendly controls and a compact stance that makes navigating tight spaces easy.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d16769967dfa604ae8_superS_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d598847e2b06349352_superS_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788da676996187d604aef_superS_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788de31165a5be63a683f_superS_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e2d54156ebe969e472_superS_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e7808c8b810feb1208_superS_7.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45429d64040120b7c6000_superS-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4535f64bdb22b80208a18_superS-compact.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29e0e5582efb1cdb04fd0c_SuperS_ServiceFriendly.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45382cf2f117ead90cea1_superS-control-panel.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa453b65dbec02f947b84bf_superS-operator-pad.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 12cc pump with Parker TL0280 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "7.3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 5-6 semi pneumatic"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 9.5-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX691"
+      }
+    },
+    "features": [
+      "15hp - 29.5hp Kawasaki Engines",
+      "36\", 48\", 52\" & 60\" decks",
+      "Up to 9 mph",
+      "5-year / 500 hour limited warranty",
+      "VX DeckFabricated 7 ga. steel engineered for extreme vacuum for enhanced performance and cut quality.Watch videoLearn More",
+      "Compact DesignSmall footprint, can go where other machines can't.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Ergonomic ControlsProvides less operator fatigue, easy to handle.Watch videoLearn More",
+      "Operator ComfortAdjustable spring loaded suspension foot platform for all-day comfort.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80df114df996e98888a56_Stand-On%20Series%202021%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-s",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 9 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "48\""
+      }
+    }
+  },
+  {
+    "_id": "5702cd12934226f7e4081d155f199a9c",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super S Deck size: 52\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Stand-On With Exceptional Operator Comfort, Control And Maneuverability.Hustler's Super S(r) features superior operator comfort and positioning, operator-friendly controls and a compact stance that makes navigating tight spaces easy.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d16769967dfa604ae8_superS_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d598847e2b06349352_superS_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788da676996187d604aef_superS_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788de31165a5be63a683f_superS_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e2d54156ebe969e472_superS_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e7808c8b810feb1208_superS_7.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45429d64040120b7c6000_superS-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4535f64bdb22b80208a18_superS-compact.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29e0e5582efb1cdb04fd0c_SuperS_ServiceFriendly.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45382cf2f117ead90cea1_superS-control-panel.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa453b65dbec02f947b84bf_superS-operator-pad.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "22, 27, 29.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 12cc pump with Parker TL0280 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "7.3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 5-6 semi pneumatic"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 9.5-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX691, FX850, FX850 EFI"
+      }
+    },
+    "features": [
+      "15hp - 29.5hp Kawasaki Engines",
+      "36\", 48\", 52\" & 60\" decks",
+      "Up to 9 mph",
+      "5-year / 500 hour limited warranty",
+      "VX DeckFabricated 7 ga. steel engineered for extreme vacuum for enhanced performance and cut quality.Watch videoLearn More",
+      "Compact DesignSmall footprint, can go where other machines can't.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Ergonomic ControlsProvides less operator fatigue, easy to handle.Watch videoLearn More",
+      "Operator ComfortAdjustable spring loaded suspension foot platform for all-day comfort.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80df114df996e98888a56_Stand-On%20Series%202021%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-s",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 9 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "52\""
+      }
+    }
+  },
+  {
+    "_id": "b04bb0f419eca51c6f6845a6b2332597",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super S Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "A Stand-On With Exceptional Operator Comfort, Control And Maneuverability.Hustler's Super S(r) features superior operator comfort and positioning, operator-friendly controls and a compact stance that makes navigating tight spaces easy.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d16769967dfa604ae8_superS_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788d598847e2b06349352_superS_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788da676996187d604aef_superS_6.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788de31165a5be63a683f_superS_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e2d54156ebe969e472_superS_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff788e7808c8b810feb1208_superS_7.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45429d64040120b7c6000_superS-deck.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa4535f64bdb22b80208a18_superS-compact.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29e0e5582efb1cdb04fd0c_SuperS_ServiceFriendly.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa45382cf2f117ead90cea1_superS-control-panel.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa453b65dbec02f947b84bf_superS-operator-pad.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "23.5, 27, 29.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 12cc pump with Parker TL0280 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "7.3 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1.5\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6 semi pneumatic"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Kawasaki FX730, FX850, FX850 EFI"
+      }
+    },
+    "features": [
+      "15hp - 29.5hp Kawasaki Engines",
+      "36\", 48\", 52\" & 60\" decks",
+      "Up to 9 mph",
+      "5-year / 500 hour limited warranty",
+      "VX DeckFabricated 7 ga. steel engineered for extreme vacuum for enhanced performance and cut quality.Watch videoLearn More",
+      "Compact DesignSmall footprint, can go where other machines can't.Watch videoLearn More",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Ergonomic ControlsProvides less operator fatigue, easy to handle.Watch videoLearn More",
+      "Operator ComfortAdjustable spring loaded suspension foot platform for all-day comfort.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fb80df114df996e98888a56_Stand-On%20Series%202021%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-s",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 9 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\""
+      }
+    }
+  },
+  {
+    "_id": "2c1da4b06567274abd63aca1abbf6d8c",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super 88 Deck size: 88\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Versatile Stand-On Mower.The most versatile commercial mower on the market with a wide cutting width to handle large lawns and massive acreages, yet agile enough to match smaller mowers on uneven terrain and around tight obstacles. It starts with the heavy-duty, 88 inch, 11-gauge welded steel deck featuring a 54 inch center deck and two pivoting wings. This combination provides a professional cut quality while reducing the risk of scalping uneven terrain.The Vanguard(r) premium Big Block engine not only provides the consistent power you need for maximum productivity, it will also save you time and money on maintenance with the optional Oil Guard system, allowing up to 500 hours between oil changes.This unique design allows professionals to do more in less time, with fewer people, while reducing operator fatigue.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7862bdf738f19fb8758ba_super88_front.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6021831996ebfb081c259573_super88_front3-4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/602183210e6b0315e3dfe354_super88_profile.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6021832a3b9ec74b465a0e65_super88_back3-4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/602183337ef6779a479ec35e_super88_back.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78647ab416f2dee3d4743_super88_top.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e7a5a9849eb312b27423b5e_speedcontrol.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e7a59f55ee48141d42c45a5_wingpivot.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e7a596c1cde8912e0a0da79_impactplate.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e7a58c635f3d1a2a072a785_transport.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e7a58907ccf8324ed340519_widthofcut.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e7a58343d7d02d2d7c94d98_engine.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "36, 37"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Hydro-Gear 21cc pump with Parker TG0405 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "13.9 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "2\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "26 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Vanguard BigBlock, Vanguard BigBlock EFI w/ Oil Guard"
+      }
+    },
+    "features": [
+      "36hp & 37hp Vanguard Engines",
+      "88\" deck",
+      "Up to 10 mph",
+      "5-year / 500 hour limited warranty",
+      "Adjustable Speed ControlThis allows speed control which aids in the training of new operatorsWatch videoLearn More",
+      "Wings Pivot 15 DegreesThe wings pivot up and down 15 degrees to reduce the possibility of scalping.Watch videoLearn More",
+      "1/4\" Steel Impact PlateProtects the deck from everyday wear and tear, increasing the life of the deck.Watch videoLearn More",
+      "76\" Transport Width76\" width fits most trailers for easy travel between jobs.Watch videoLearn More",
+      "54\" Center Deck & 88\" Width of CutCut quality of a 54\" deck plus the productivity of an 88\" deck.Watch videoLearn More"
+    ],
+    "options": [
+      "Powerful Engine OptionsChoose from Vanguard BigBlock(tm) or Vanguard BigBlock(tm) EFI Oil Guard engines.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e320b64428a1027809e6855_2020%20Super%2088%20Spec%20Sheet.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-88",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 10 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "88\""
+      }
+    }
+  },
+  {
+    "_id": "f2a8dd3fddd0ad943e1fc5e180ceb8b8",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Super 104 Deck size: 104\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "104 Inch Width Of Cut Makes Big Jobs Easy.Hustler's Super 104(tm) can easily handle acres of work. Offering a 104\" width of cut, zero-turn precision and up to an impressive 11 mph speed, this machine is in a class by itself.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff787700adc125044e0c290_super104_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78776c25094432dc338ef_super104_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff7877b7c8e25e94b766d36_super104_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78782091a66f3965453c2_super104_4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78787cc688c00a81aa734_super104_5.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29e5cb738809b09940e1cf_Super104_transport.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29e57cfe55dccc382dc745_Super104_width.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d89c58919a297406a1fd_SZ_HyperDrive_hydros.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d2bf952d853bc4f69a49_X-ONE_seat.jpg"
+      }
+    ],
+    "operational": {
+      "transmission": {
+        "label": "Transmission",
+        "desc": "36, 37, 35, 38.5"
+      },
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Danfoss DDC20 pumps with Parker TG0360 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "12 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "15 x 6-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "26 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Vanguard Big Block, Vanguard Big Block EFI Oil Guard, Kawasaki FX1000 & FX 1000 EFI"
+      }
+    },
+    "features": [
+      "35 - 38.5hp Vanguard & Kawasaki",
+      "104\" deck",
+      "Up to 11mph",
+      "5-year / 500 hour limited warranty",
+      "Wings Fold To 80\"80\" transport width fits most trailers for easy travel between jobs.Watch videoLearn More",
+      "104\" Width of CutThe widest and most productive of any commercial zero-turn mower.Watch videoLearn More",
+      "HyperDrive Hydro SystemA Hustler(r) exclusive, industrial pumps and high torque wheel motors, 3-gallon reservoir, oil cooler and hot oil shuttle.Watch videoLearn More",
+      "Unmatched ComfortI3M suspension seat with adjustable armrests and back.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5fa434188c2018a1c7303943_Super104%20Spread.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/super-104",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 11 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "104\""
+      }
+    }
+  },
+  {
+    "_id": "433a3e71a3ff32b3bf266d5b5d482464",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Diesel Z Deck size: 60\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Diesel Power To Do Any Job.The Hustler(r) Diesel Z gives you all the great features of a Hustler product paired with fuel-economy of a diesel.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff789e7e798f92140d330a3_DieselZ_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78addc68e1b1b799c733e_Diesel_Z-profile.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78ae1a258dc2a03f25e6f_Diesel_Z-rear3-4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78ae55172cd8935ced983_Diesel_Z-rear.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff789f213ccc0df82296022_DieselZ_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff789f8857cae3b3f41faf9_DieselZ_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29dea33e5ebaae7fc8360e_HZ-Diesel_service.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29de5d08fcdb4873612b64_HZ-Diesel_belt.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Tandem Hydro-Gear 21cc pumps with Parker TG0335 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "14.4 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Perkins"
+      }
+    },
+    "features": [
+      "25hp Perkins Engine",
+      "60\" & 72\" decks",
+      "11.5mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Patented Belt Drive SystemProvides up to three times longer belt life.Watch videoLearn More",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6005fca42e999b2edcf306b2_Diesel_Z_2020_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/diesel-z",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 11.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "60\", 60\" Rear Discharge"
+      }
+    }
+  },
+  {
+    "_id": "6a0b2e0a9e9db469acfe66cfa23e1af8",
+    "general": {
+      "manufacturer": "Hustler",
+      "model": "Diesel Z Deck size: 72\"",
+      "year": 2021,
+      "msrp": 0,
+      "category": "Mowers",
+      "subcategory": "Zero-Turn Mowers",
+      "description": "Diesel Power To Do Any Job.The Hustler(r) Diesel Z gives you all the great features of a Hustler product paired with fuel-economy of a diesel.",
+      "countries": [
+        "US"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff789e7e798f92140d330a3_DieselZ_1.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78addc68e1b1b799c733e_Diesel_Z-profile.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78ae1a258dc2a03f25e6f_Diesel_Z-rear3-4.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff78ae55172cd8935ced983_Diesel_Z-rear.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff789f213ccc0df82296022_DieselZ_3.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5ff789f8857cae3b3f41faf9_DieselZ_2.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29dea33e5ebaae7fc8360e_HZ-Diesel_service.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29de5d08fcdb4873612b64_HZ-Diesel_belt.jpg"
+      },
+      {
+        "src": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/5e29d6e0f6f798c22db6bd64_SZ_deck.jpg"
+      }
+    ],
+    "operational": {
+      "fuelCapacity": {
+        "label": "Fuel Capacity",
+        "desc": "Tandem Hydro-Gear 21cc pumps with Parker TG0335 wheel motors"
+      },
+      "groundSpeedFwd": {
+        "label": "Ground Speed (FWD)",
+        "desc": "14.4 gal."
+      },
+      "frontTire": {
+        "label": "Front Tire",
+        "desc": "1\" to 5.5\""
+      },
+      "driveTire": {
+        "label": "Drive Tire",
+        "desc": "13 x 6.5-6"
+      },
+      "warranty": {
+        "label": "Warranty",
+        "desc": "24 x 12-12"
+      }
+    },
+    "engineDriveTrain": {
+      "engineHorsepower": {
+        "label": "Engine Horsepower",
+        "desc": "Perkins"
+      }
+    },
+    "features": [
+      "25hp Perkins Engine",
+      "60\" & 72\" decks",
+      "11.5mph mowing speed",
+      "5-year / 500 hour limited warranty",
+      "Service Friendly DesignDesigned to make maintenance and service simple and easy.Watch videoLearn More",
+      "Patented Belt Drive SystemProvides up to three times longer belt life.Watch videoLearn More",
+      "VX4(r) DeckFabricated steel deck engineered to move more grass at high speeds while maintaining cut-quality.Watch videoLearn More"
+    ],
+    "attachments": [
+      {
+        "attachmentDescription": "product_brochure_1",
+        "attachmentLocation": "https://assets-global.website-files.com/5e0bb01c7436084881f267a0/6005fca42e999b2edcf306b2_Diesel_Z_2020_Specs.pdf"
+      }
+    ],
+    "productUri": "https://www.hustlerturf.com/products/diesel-z",
+    "dimensions": {
+      "cuttingWidth": {
+        "label": "Cutting Width",
+        "desc": "Up to 11.5 mph"
+      },
+      "cuttingHeight": {
+        "label": "Cutting Height",
+        "desc": "72\", 72\" Rear Discharge"
+      }
+    }
+  }
+]

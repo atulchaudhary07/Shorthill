@@ -1,0 +1,386 @@
+[
+    {
+        "_id": "282628d7b826d9f772b98ac175c5d46e",
+        "general": {
+            "manufacturer": "Aisle Master Lifting Innovation",
+            "model": "Combi-WR Walkie Reach-Stacker",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Lifting Equipment",
+            "subcategory": "Combi-WR Walkie Reach-Stacker",
+            "description": "The Combi-WR is the first purpose built pedestrian reach-stacker with the capability to operate in a VNA working aisle - down to 2.1 m. This is achieved through a unique patented multi-position tiller arm that places the operator in the safest possible position.Incorporating the benefits of AC technology in its traction, pump and steering motors, the Combi-WR has a lift height that can be tailored to your application with load capacities up to 1,450kg.Electronic power steering and fingertip controls ensure effortless operation, even in the most demanding environments.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/WR-20.jpg"
+            },
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/WR-14.jpg"
+            },
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/WR-5.jpg"
+            }
+        ],
+        "operational": {
+            "mastRange": {
+                "label": "Mast Range",
+                "desc": "3000 mm to 4900 mm"
+            },
+            "groundClearanceUnderMast": {
+                "label": "Ground Clearance Under Mast",
+                "desc": "80 mm"
+            },
+            "groundClearanceToCentreOfWheelbase": {
+                "label": "Ground Clearance to Centre of Wheelbase",
+                "desc": "50 mm"
+            },
+            "outsideSpreadOfForkArms": {
+                "label": "Outside Spread of Fork Arms",
+                "desc": "815 mm"
+            },
+            "frameOpening": {
+                "label": "Frame Opening",
+                "desc": "1008 mm"
+            },
+            "overhangFront": {
+                "label": "Overhang Front",
+                "desc": "603 mm"
+            },
+            "wheelbase": {
+                "label": "Wheelbase",
+                "desc": "1172 mm"
+            },
+            "overhangBack": {
+                "label": "Overhang Back",
+                "desc": "175 mm"
+            },
+            "forkSideShift": {
+                "label": "Fork Side Shift",
+                "desc": "80 mm Left / 80 mm Right"
+            },
+            "forkBackwardTilt": {
+                "label": "Fork Backward Tilt",
+                "desc": "3o"
+            },
+            "forkForwardTilt": {
+                "label": "Fork Forward Tilt",
+                "desc": "3o"
+            },
+            "capacity": {
+                "label": "Capacity",
+                "desc": "1450 kg @ 3200 mm Lift"
+            },
+            "maximumGroundSpeed": {
+                "label": "Maximum Ground Speed",
+                "desc": "6 Km/h"
+            },
+            "gradeability": {
+                "label": "Gradeability",
+                "desc": "5%"
+            },
+            "batteryCapacityRange": {
+                "label": "Battery Capacity Range",
+                "desc": "24V / 270 Ah"
+            },
+            "forkSection": {
+                "label": "Fork Section",
+                "desc": "35mmx100mmx1070mm"
+            },
+            "frontTyreXPolyurethane": {
+                "label": "Front Tyre x (Polyurethane)",
+                "desc": "OD127mm/Width75mm"
+            },
+            "rearTyreVulkollan": {
+                "label": "Rear Tyre (Vulkollan)",
+                "desc": "OD250mm/Width75mm"
+            },
+            "standardColour": {
+                "label": "Standard Colour*",
+                "desc": "Yellow and Grey"
+            },
+            "acElectricTractionMotor": {
+                "label": "AC Electric Traction Motor",
+                "desc": "24V / 2.5 kW"
+            },
+            "24v25KwAcElectricPumpMotor": {
+                "label": "24V / 2.5 kW AC Electric Pump Motor",
+                "desc": "24V / 5 kW"
+            }
+        },
+        "engineDriveTrain": {
+            "forkTravel": {
+                "label": "Fork Travel",
+                "desc": "590 mm"
+            }
+        },
+        "weights": {
+            "unladenWeight": {
+                "label": "Unladen Weight",
+                "desc": "2500 kg / 2600 kg / 2700 kg"
+            }
+        },
+        "features": [
+            "Unique pedestrian walkie reach-stacker",
+            "AC electric motor",
+            "Electronic steering and fingertip controls for precise handling",
+            "Works in a standard VNA working aisle, down to 2.1m"
+        ],
+        "productUri": "https://www.aisle-master.com/product/combi-wr-walkie-reach-stacker/",
+        "dimensions": {
+            "overallLength": {
+                "label": "Overall Length",
+                "desc": "1950 mm"
+            },
+            "width": {
+                "label": "Width",
+                "desc": "1320 mm"
+            },
+            "trackFront": {
+                "label": "Track Front",
+                "desc": "1165 mm"
+            },
+            "loadCentreDistance": {
+                "label": "Load Centre Distance",
+                "desc": "600 mm"
+            },
+            "lengthFromFaceOfFork": {
+                "label": "Length from Face of Fork",
+                "desc": "880 mm"
+            },
+            "minimumOutsideRadius": {
+                "label": "Minimum Outside Radius",
+                "desc": "1350 mm"
+            },
+            "legHeight": {
+                "label": "Leg Height",
+                "desc": "127 mm"
+            },
+            "legLength": {
+                "label": "Leg Length",
+                "desc": "530 mm"
+            }
+        }
+    },
+    {
+        "_id": "90855e178c8233ea2ec160ad176a277b",
+        "general": {
+            "manufacturer": "Aisle Master Lifting Innovation",
+            "model": "Cold Store Aisle Master",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Lifting Equipment",
+            "subcategory": "Cold Store Aisle Master",
+            "description": "The cost of cold store and temperature controlled warehousing operations is much higher than that of ambient warehousing, making space saving more crucial than ever. Aisle Master's cold store model keeps you warm and productive in a cold climate.Collaboration with some of the major names in the industry resulted in a model developed specifically for this sector's exacting requirements whilst guaranteeing optimum storage density. The fully enclosed, high visibility cab keeps drivers warm, reducing the time needed for breaks and increasing productivity.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2018/01/IMG_6586.jpg"
+            }
+        ],
+        "features": [
+            "Heated cab windows eliminate the build-up of condensation when driving between different temperatures in a building",
+            "Allocated areas in the cab enable the use of a bar code scanner",
+            "Low energy LED work lights as standard"
+        ],
+        "productUri": "https://www.aisle-master.com/product/cold-store-aisle-master/",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/XrfyKaGBhvM?feature=oembed"
+            }
+        ]
+    },
+    {
+        "_id": "fd68db9703f5c8dea54dd1ec3e7d850c",
+        "general": {
+            "manufacturer": "Aisle Master Lifting Innovation",
+            "model": "Aisle Master LPG",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Lifting Equipment",
+            "subcategory": "Aisle Master LPG",
+            "description": "Aisle Master is acknowledged as the pioneer of LPG power in the articulated forklift sector. Aisle Masters are fitted with a closed loop fuel system as standard, to improve emissions and fuel economy whilst a specially designed engine bay cooling system ensures the effective running of the engine for maximum uptime and reliability.The main benefit of LPG is reduced emissions levels, ideal for indoor and outdoor operation, making it useful for trucks that are used in almost all industries, even the most emission conscientious. LPG power also offers 24/7 operation with no loss of power.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/AM-20s-2.jpg"
+            },
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/LPG_11-02-15-61.jpg"
+            },
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/AM-6.jpg"
+            }
+        ],
+        "operational": {
+            "mastRange": {
+                "label": "Mast Range",
+                "desc": "4300 mm to 12400 mm"
+            },
+            "overheadGuard": {
+                "label": "Overhead Guard*",
+                "desc": "2311 mm"
+            },
+            "capacity": {
+                "label": "Capacity",
+                "desc": "2000 kg"
+            },
+            "groundSpeed": {
+                "label": "Ground Speed*",
+                "desc": "11kph"
+            },
+            "liftSpeedLaden": {
+                "label": "Lift Speed (Laden)",
+                "desc": "0.4 m/s"
+            },
+            "liftSpeedUnladen": {
+                "label": "Lift Speed (Unladen)",
+                "desc": "0.5 m/s"
+            },
+            "frontTyreSize": {
+                "label": "Front tyre size*",
+                "desc": "406 x 178 mm"
+            },
+            "rearTyreSize": {
+                "label": "Rear tyre size*",
+                "desc": "457 x 200 mm"
+            },
+            "gradeabilityLaden": {
+                "label": "Gradeability (Laden)",
+                "desc": "15%"
+            },
+            "gradeabilityUnladen": {
+                "label": "Gradeability (Unladen)",
+                "desc": "15%"
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine",
+                "desc": "3.0l GM Water Cooled"
+            }
+        },
+        "weights": {
+            "weightOfTruck": {
+                "label": "Weight of Truck",
+                "desc": "3.0l GM Water Cooled"
+            }
+        },
+        "features": [
+            "Hydrostatic drive",
+            "Closed loop fuel system as standard",
+            "Engine bay cooling system designed to effectively cool the engine compartment, for maximum reliability"
+        ],
+        "productUri": "https://www.aisle-master.com/product/aisle-master-lpg/"
+    },
+    {
+        "_id": "fd183b249aea7bfe85a95d58131d2be4",
+        "general": {
+            "manufacturer": "Aisle Master Lifting Innovation",
+            "model": "AC Electric Aisle Master",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Lifting Equipment",
+            "subcategory": "AC Electric Aisle Master",
+            "description": "All Aisle Master's electric powered models now benefit from AC technology as standard. This puts the company firmly at the forefront of battery powered technology in the articulated sector.The main benefits of AC electric include enhanced performance levels, leading to increased pallet movements for greater productivity and improved acceleration and gradeability. There are also fewer wearable parts resulting in low maintenance and reduced downtime.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/AM-15E-1-2.jpg"
+            },
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/190814-552-2.jpg"
+            },
+            {
+                "src": "https://www.aisle-master.com/Test/wp-content/uploads/2017/12/Aisle-Master-battery-2.jpg"
+            }
+        ],
+        "operational": {
+            "mastRange": {
+                "label": "Mast Range",
+                "desc": "4300 mm to 15000mm"
+            },
+            "overheadGuard": {
+                "label": "Overhead Guard",
+                "desc": "2270mm"
+            },
+            "capacity": {
+                "label": "Capacity",
+                "desc": "1500 kg to 2500 kg"
+            },
+            "groundSpeed": {
+                "label": "Ground Speed*",
+                "desc": "16 kph"
+            },
+            "liftSpeedLaden": {
+                "label": "Lift Speed (Laden)",
+                "desc": "0.4 m/s"
+            },
+            "liftSpeedUnladen": {
+                "label": "Lift Speed (Unladen)",
+                "desc": "0.5 m/s"
+            },
+            "frontTyreSize": {
+                "label": "Front tyre size*",
+                "desc": "412 x 174 mm"
+            },
+            "rearTyreSize": {
+                "label": "Rear tyre size*",
+                "desc": "457 x 178/229 mm"
+            },
+            "gradeabilityLaden": {
+                "label": "Gradeability (Laden)",
+                "desc": "12%"
+            },
+            "gradeabilityUnladen": {
+                "label": "Gradeability (Unladen)",
+                "desc": "15%"
+            },
+            "batteryCapacityRange": {
+                "label": "Battery Capacity Range",
+                "desc": "620 Ah to 930 Ah"
+            },
+            "batteryVoltage": {
+                "label": "Battery Voltage",
+                "desc": "48v"
+            },
+            "standardColour": {
+                "label": "Standard Colour*",
+                "desc": "Yellow and Grey"
+            },
+            "standardSeat": {
+                "label": "Standard Seat*",
+                "desc": "KAB"
+            }
+        },
+        "weights": {
+            "truckWeightNoBattery": {
+                "label": "Truck weight (no battery)",
+                "desc": "5150 kg to 5510 kg"
+            },
+            "truckWeightWithBattery": {
+                "label": "Truck Weight (with battery)",
+                "desc": "6400 kg to 7100 kg"
+            }
+        },
+        "features": [
+            "Quick & easy battery removal",
+            "AC Traction motor (19.5 kw)",
+            "A choice of 620/775/930 amp-hour capacity batteries",
+            "Ergonomically designed operator's cab",
+            "Reduced energy consumption"
+        ],
+        "productUri": "https://www.aisle-master.com/product/ac-electric-aisle-master/"
+    }
+]

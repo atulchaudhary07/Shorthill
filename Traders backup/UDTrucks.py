@@ -48,18 +48,23 @@ for ProdUrl in tempUrl:
                     h1=fetIndex.find("h1").text
                     fets.append(h1)
 
-
                 except:
                     pass
                 try:#ptag
                     fetptag=fetIndex.find("p").text
                     fets.append(fetptag)
                     # print(fetptag)
-
-
                 except:
                     pass
 
+        except:
+            pass
+
+        try:
+            #bar_icon_text
+            barclass=nvsoup.find("div",{"class":"icon-bar product-heading-icons"}).find_all("a")
+            for brAtag in barclass:
+                fets.append(brAtag.text)
 
         except:
             pass
@@ -70,9 +75,9 @@ for ProdUrl in tempUrl:
                 imgsrc="https://www.udtrucks.com"+imgIndex.get("src")
                 if re.search(r'(?i).jpg', imgsrc):
                     imges.append(imgsrc)
-
         except:
             pass
+
         try:
             # spec
             specblock=nvsoup.find_all("div",{"class":"specs-block"})
@@ -82,30 +87,29 @@ for ProdUrl in tempUrl:
                 # print(specname)
                 # print(specvalue)
                 if len(specvalue) > 0:
-                    if re.search(r'(?i)Engine|Emissions|Horsepower|Travel|Cooling', specname):
+                    if re.search(r'(?i)Engine|Emissions|Horsepower|Travel|Cooling|Transmission|Power|Torque', specname):
                         robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue}, "engine")
-                    elif re.search(r'(?i)Operating|Pressure|Capacity|Fuel|tank|Speed', specname):
-                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue}, "operational")
-                    elif re.search(r'(?i)Length|Height||Radius|Track|Width|Load', specname):
-                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue}, "dimensions")
                     elif re.search(r'(?i)Weight|Load', specname):
-                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue}, "weights")
+                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue},"weights")
                     elif re.search(r'(?i)Auxiliary|Flow|System|Relief|Pressure', specname):
-                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue}, "hydraulics")
+                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue},"hydraulics")
+                    elif re.search(r'(?i)Length|Height|Radius|Track|Width', specname):
+                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue},"dimensions")
                     else:
-                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue}, "other")
+                        robot.creat_spec({"specNamel": specname, "metricUnitValue": specvalue},"operational")
                 else:
                     pass
-
         except:
             pass
+
         ImgLst = OrderedSet(imges)
         for ImgIndex in ImgLst:
             robot.fetch_img_manual(ImgIndex)
         TempFeatList = OrderedSet(fets)
         for FetIndex in TempFeatList:
             robot.Features(FetIndex)
-        desc=model+" "+ "Trucks"
+
+        desc="Trucks"+" "+ model
         robot.ObjectID(model)
         robot.MasterCategory("Trucks")
         robot.SubCategory(Subcat)
@@ -114,7 +118,6 @@ for ProdUrl in tempUrl:
         robot.Country("US")
         robot.ManufacturerName("UD Trucks")
         robot.make_json()
-
 robot.destroy()
 
 

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-import requests,re,os,datetime,os,sys,warnings,hashlib,urllib,shutil,time,PyPDF2,json,inspect,shutil,io,codecs
+import requests,re,os,datetime,os,sys,warnings,hashlib,time,PyPDF2,json,inspect,shutil,io,codecs
 warnings.filterwarnings("ignore")
 from unidecode import unidecode
 from time import sleep
@@ -53,7 +53,7 @@ class bot:
             "features":None,
             "options":None,
             "attachments":None,
-            "productUrl":None,
+            "productUri":None,
             "videos":None,
             "dimensions":None,
             "drivetrain":None,
@@ -147,7 +147,7 @@ class bot:
     def ObjectID(self,model):
         self.ObjectId = self.create_md5(model)
         self.ObjStr["_id"] = self.ObjectId
-        self.ObjStr["general"]["year"] = 2020
+        self.ObjStr["general"]["year"] = 2021
         if self.ObjStr["general"]["msrp"] is None:
             self.ObjStr["general"]["msrp"] = 0.0
        
@@ -157,8 +157,8 @@ class bot:
         self.img_count = 1
         self.vid_count = 1
 
-    def ProductUrl(self,url):
-        self.ObjStr["productUrl"] = url
+    def ProductUrl(self,uri):
+        self.ObjStr["productUri"] = uri
 
     def ManufacturerName(self,manufacturer):
         manufacturer = self.special_charCare(manufacturer)
@@ -184,6 +184,7 @@ class bot:
         
     def Title(self,title):
         title = self.special_charCare(title)
+        return title
       
 
     def Options(self,option):
@@ -548,7 +549,7 @@ class bot:
         
     def make_json(self):
 
-        if(self.ObjStr["productUrl"] is None):
+        if(self.ObjStr["productUri"] is None):
             print("\n\nError:\nProductUrl should not be None\nScript Ending")
             sys.exit()
 
@@ -609,7 +610,7 @@ class bot:
             "features":None,
             "options":None,
             "attachments":None,
-            "productUrl":None,
+            "productUri":None,
             "videos":None,
             "dimensions":None,
             "drivetrain":None,

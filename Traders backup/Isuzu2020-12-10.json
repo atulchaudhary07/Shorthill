@@ -1,0 +1,1627 @@
+[
+    {
+        "_id": "7bd0ca738be0bd0ab831fec45827b37d",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "6.6L NPR (Gas)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Gas",
+            "description": "With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_cng.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_lpg.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/engine.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/turning.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/warranty.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "12,000/18,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "3"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Standard"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 20 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "6.6-liter V8"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "6,600-6,796 lbs."
+            }
+        },
+        "features": [
+            "V8 engine",
+            "Hexapoddesign interior",
+            "8 CYLINDERS 0 COMPROMISES",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Offering 4 wheelbases from 109 to 176-in., the N-Series gas truck can accommodate bodies ranging from 10 to 20 ft. and have a GVWR up to 14,500lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "60/100,000 & 60/125,000",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts",
+            "Differential, axle shafts, all seals and bearings.",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr_gas_specs_66.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/gas_brochure_66.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_gas",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/PwmTzR1Cgjo?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "fa30557c7fe55b81779a2092647dff05",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "NPR (Gas)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Gas",
+            "description": "With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_cng.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_lpg.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/engine.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/turning.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/warranty.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "12,000/18,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "3"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Crew Cab"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 16 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "6.6-liter V8"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "6,033-6,095 lbs."
+            }
+        },
+        "features": [
+            "V8 engine",
+            "Hexapoddesign interior",
+            "8 CYLINDERS 0 COMPROMISES",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Offering 4 wheelbases from 109 to 176-in., the N-Series gas truck can accommodate bodies ranging from 10 to 20 ft. and have a GVWR up to 14,500lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "60/100,000 & 60/125,000",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts",
+            "Differential, axle shafts, all seals and bearings.",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr_gas_specs_66.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/gas_brochure_66.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_gas",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/PwmTzR1Cgjo?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "197f996b52b234e843bfb4f61cfe367f",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "6.6L NPR-HD (Gas)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Gas",
+            "description": "With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_cng.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_lpg.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/engine.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/turning.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/warranty.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "12,000/18,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "3"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Standard"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 20 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "6.0-liter V8"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "6,782-6,978 lbs."
+            }
+        },
+        "features": [
+            "V8 engine",
+            "Hexapoddesign interior",
+            "8 CYLINDERS 0 COMPROMISES",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Offering 4 wheelbases from 109 to 176-in., the N-Series gas truck can accommodate bodies ranging from 10 to 20 ft. and have a GVWR up to 14,500lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "60/100,000 & 60/125,000",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts",
+            "Differential, axle shafts, all seals and bearings.",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr_gas_specs.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/gas_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_gas",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/PwmTzR1Cgjo?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "342096b7dc18445a444c01f2370d4f02",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "NPR-HD (Gas)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Gas",
+            "description": "With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.With a 200,000-mile Design Life N-Series gas trucks are built for the long haul and can be retrofitted for Compressed Natural Gas (CNG) or Liquefied Petroleum Gas (LPG). Whether you need a landscaping, dump, refrigerated, or box van body, the 297-hp N-Series gas truck has a versatile chassis to accommodate these applications and more. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_cng.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/logo_lpg.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/engine.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/turning.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/6.6l npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_gas_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/warranty.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/gas11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "12,000/18,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "3"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Crew Cab"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 16 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "6.0-liter V8"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "6,246-6,308 lbs."
+            }
+        },
+        "features": [
+            "V8 engine",
+            "Hexapoddesign interior",
+            "8 CYLINDERS 0 COMPROMISES",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Offering 4 wheelbases from 109 to 176-in., the N-Series gas truck can accommodate bodies ranging from 10 to 20 ft. and have a GVWR up to 14,500lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "60/100,000 & 60/125,000",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts",
+            "Differential, axle shafts, all seals and bearings.",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr_gas_specs.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/gas_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_gas",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/PwmTzR1Cgjo?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "5577ef883f8f8c8222431681ec69d643",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "NPR-HD (Diesel)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Diesel",
+            "description": "Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/truck.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/white.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/green.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/black.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/yellow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/red.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/blue.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/engine52.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health_logo.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/warranty_hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "14,500/20,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "4"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Standard"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 20 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "5.2-liter"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "8,270-8,456 lbs."
+            }
+        },
+        "features": [
+            "The Isuzu cab maximizes interior space,optimizes comfort and incorporatesingenious productivity and maintenance features",
+            "CAPABLE, VERSATILE",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Available Colors:",
+            "Every new Isuzu Diesel N-Series truck incorporates a Data Recording Module (DRM) that monitors your truck's performance and enables your Isuzu Dealer's technicians to produce an Isuzu Vehicle Health Report.",
+            "Offering four wheelbases from 109 to 176-in., the diesel-powered N-Series can accommodate bodies ranging from 10 to 20 ft. and has a GVWR up to 14,500 lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, liners, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts (excludes Allison transmissions).",
+            "Differential, axle shafts, all seals and bearings.",
+            "EXTENDED WARRANTY PLUS",
+            "(Includes Extended Warranty)",
+            "Fuel injectors, fuel pressure limiter, fuel injection pump, fuel rail pressure sensor, fuel temperature sensor, common fuel rail and high pressure lines.",
+            "Starter, starter drive assembly, starter motor assembly.",
+            "AFTERTREATMENT WARRANTY PLUS",
+            "(Includes Extended Warranty and Extended Warranty Plus)",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "options": [
+            "Arctic White",
+            "Woodland Green",
+            "Ebony Black II",
+            "Wheatland Yellow",
+            "Cardinal Red",
+            "Dark Blue"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr-hd_diesel_specs.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/n_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_diesel",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/WJSYyaXqjoA?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "345d08ed67cb2815941a437e1e4a6608",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "NPR-XD (Diesel)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Diesel",
+            "description": "Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/truck.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/white.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/green.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/black.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/yellow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/red.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/blue.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/engine52.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health_logo.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/warranty_hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "14,500/20,500 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "4"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Crew Cab"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 16 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "5.2-liter"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "7,686-7,752 lbs."
+            }
+        },
+        "features": [
+            "The Isuzu cab maximizes interior space,optimizes comfort and incorporatesingenious productivity and maintenance features",
+            "CAPABLE, VERSATILE",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Available Colors:",
+            "Every new Isuzu Diesel N-Series truck incorporates a Data Recording Module (DRM) that monitors your truck's performance and enables your Isuzu Dealer's technicians to produce an Isuzu Vehicle Health Report.",
+            "Offering four wheelbases from 109 to 176-in., the diesel-powered N-Series can accommodate bodies ranging from 10 to 20 ft. and has a GVWR up to 14,500 lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, liners, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts (excludes Allison transmissions).",
+            "Differential, axle shafts, all seals and bearings.",
+            "EXTENDED WARRANTY PLUS",
+            "(Includes Extended Warranty)",
+            "Fuel injectors, fuel pressure limiter, fuel injection pump, fuel rail pressure sensor, fuel temperature sensor, common fuel rail and high pressure lines.",
+            "Starter, starter drive assembly, starter motor assembly.",
+            "AFTERTREATMENT WARRANTY PLUS",
+            "(Includes Extended Warranty and Extended Warranty Plus)",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "options": [
+            "Arctic White",
+            "Woodland Green",
+            "Ebony Black II",
+            "Wheatland Yellow",
+            "Cardinal Red",
+            "Dark Blue"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr-hd_diesel_specs.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/n_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_diesel",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/WJSYyaXqjoA?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "52975b1d104dd8ed6fbebb0d109be9ed",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "NQR (Diesel)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Diesel",
+            "description": "Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/truck.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/white.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/green.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/black.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/yellow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/red.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/blue.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/engine52.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health_logo.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/warranty_hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "16,000/22,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "4"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Standard"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 20 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "5.2-liter"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "9,341-9,527 lbs."
+            }
+        },
+        "features": [
+            "The Isuzu cab maximizes interior space,optimizes comfort and incorporatesingenious productivity and maintenance features",
+            "CAPABLE, VERSATILE",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Available Colors:",
+            "Every new Isuzu Diesel N-Series truck incorporates a Data Recording Module (DRM) that monitors your truck's performance and enables your Isuzu Dealer's technicians to produce an Isuzu Vehicle Health Report.",
+            "Offering four wheelbases from 109 to 176-in., the diesel-powered N-Series can accommodate bodies ranging from 10 to 20 ft. and has a GVWR up to 14,500 lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, liners, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts (excludes Allison transmissions).",
+            "Differential, axle shafts, all seals and bearings.",
+            "EXTENDED WARRANTY PLUS",
+            "(Includes Extended Warranty)",
+            "Fuel injectors, fuel pressure limiter, fuel injection pump, fuel rail pressure sensor, fuel temperature sensor, common fuel rail and high pressure lines.",
+            "Starter, starter drive assembly, starter motor assembly.",
+            "AFTERTREATMENT WARRANTY PLUS",
+            "(Includes Extended Warranty and Extended Warranty Plus)",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "options": [
+            "Arctic White",
+            "Woodland Green",
+            "Ebony Black II",
+            "Wheatland Yellow",
+            "Cardinal Red",
+            "Dark Blue"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr-xd_specs.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/n_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_diesel",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/WJSYyaXqjoA?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "15ef35c8cf9f870eb0176c4d518568e2",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "NRR (Diesel)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "N-Series Diesel",
+            "description": "Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.Value has long been a hallmark of Isuzu trucks. It is one of the many attributes that has made the N-Series diesel trucks so popular. The range of capabilities from Class 3 through 5, coupled with the versatility of multiple wheelbase offerings, has given body companies an open canvas when designing specialized bodies. From street sweepers, to landscape dump trucks, to car carriers and the numerous refrigerated and dry van bodies, Isuzu N-Series has a diesel truck to fit your needs. Powered by a durable 5.2-liter turbocharged diesel engine with 215-hp and 452 lb.-ft. of torque. This diesel engine is built to last with a B10 Rating or 375,000 miles. Choose from a Standard Cab with seating for 3 or a Crew Cab with seating for up to 7.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/truck.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/white.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/green.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/black.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/yellow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/red.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/chips/blue.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/engine52.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/health_logo.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-hd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/npr-xd_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nqr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/nrr_diesel_crew.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/left_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gas/right_arrow.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/diesel/warranty_hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel01_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel02_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel03_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel04_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel05_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel06_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel12_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel07_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel08_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel09_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel10_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/nseries/gallery/diesel11_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "16,000/22,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "4"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Crew Cab"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 16 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "5.2-liter"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "8,760-8,825 lbs."
+            }
+        },
+        "features": [
+            "The Isuzu cab maximizes interior space,optimizes comfort and incorporatesingenious productivity and maintenance features",
+            "CAPABLE, VERSATILE",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Hexapod-designed cab that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Click here to explore the standard and optional features.",
+            "Available Colors:",
+            "Every new Isuzu Diesel N-Series truck incorporates a Data Recording Module (DRM) that monitors your truck's performance and enables your Isuzu Dealer's technicians to produce an Isuzu Vehicle Health Report.",
+            "Offering four wheelbases from 109 to 176-in., the diesel-powered N-Series can accommodate bodies ranging from 10 to 20 ft. and has a GVWR up to 14,500 lbs. Scroll through the line up and specifications below.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, liners, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Transmission case and all internal parts (excludes Allison transmissions).",
+            "Differential, axle shafts, all seals and bearings.",
+            "EXTENDED WARRANTY PLUS",
+            "(Includes Extended Warranty)",
+            "Fuel injectors, fuel pressure limiter, fuel injection pump, fuel rail pressure sensor, fuel temperature sensor, common fuel rail and high pressure lines.",
+            "Starter, starter drive assembly, starter motor assembly.",
+            "AFTERTREATMENT WARRANTY PLUS",
+            "(Includes Extended Warranty and Extended Warranty Plus)",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "options": [
+            "Arctic White",
+            "Woodland Green",
+            "Ebony Black II",
+            "Wheatland Yellow",
+            "Cardinal Red",
+            "Dark Blue"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/npr-xd_specs.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/n_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/nseries/nseries_diesel",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/WJSYyaXqjoA?rel=0"
+            }
+        ]
+    },
+    {
+        "_id": "62c68b055f1462221d2c47777df9247d",
+        "general": {
+            "manufacturer": "Isuzu Trucks",
+            "model": "FTR (Diesel)",
+            "year": 2020,
+            "msrp": 0.0,
+            "category": "Trucks",
+            "subcategory": "F-Series",
+            "description": "The 2018 Medium-Duty Truck of the Year wasn't picked by truck analysts and journalists; it was voted on by professional fleet managers who were asked to consider which of the nine competing trucks best fit their fleet requirements, including application effectiveness, durability, quality, servicing, maintenance, and lifecycle costs. The FTR was designed for the urban environment and fits numerous applications across many vocational markets. From food delivery to construction, the FTR can be easily upfitted across its offering of eight wheelbases. Powered by an Isuzu 5.2L turbocharged four-cylinder diesel engine mated to an Allison transmission, the FTR is equipped for the most demanding hauls.",
+            "countries": [
+                "US"
+            ]
+        },
+        "images": [
+            {
+                "src": "https://www.isuzucv.com/images/us/models/ftr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/hero.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/top_view.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/three_across.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/seat.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/interior.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/models/ftr_diesel.png"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/truck_in_the_city.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/0201v2LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/0228v2LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/0250LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/Beach-Family_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0069-badged_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0185-badged_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0236-badged_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0256-badged_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0721-badgedv2_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0930-badged_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB0988-badged_LR_t.jpg"
+            },
+            {
+                "src": "https://www.isuzucv.com/images/us/fseries/gallery/BLB1062-badged_LR_t.jpg"
+            }
+        ],
+        "operational": {
+            "gvwrgcwr": {
+                "label": "GVWR/GCWR:",
+                "desc": "25,950/30,000 lbs."
+            },
+            "class": {
+                "label": "Class:",
+                "desc": "6"
+            },
+            "cab": {
+                "label": "Cab:",
+                "desc": "Standard"
+            },
+            "bodyApplication": {
+                "label": "Body Application:",
+                "desc": "Up to 30 ft."
+            }
+        },
+        "engineDriveTrain": {
+            "engine": {
+                "label": "Engine:",
+                "desc": "5.2-liter"
+            }
+        },
+        "hydraulics": {
+            "bodypayloadAllowance": {
+                "label": "Body/Payload Allowance:",
+                "desc": "15,423-16,397 lbs."
+            }
+        },
+        "features": [
+            "Three across seating",
+            "Suspension seat withadjustable height control",
+            "Exclusive isuzu hexapod cab with spacious interior andspace for storage behind the seats; Interior also includesground clearance mirror and overhead console",
+            "THE LCF ANSWER FOR CLASS 6 EFFICIENCY",
+            "Isuzu trucks are packed with features that enhance comfort, convenience and safety. From Isuzu's Low Cab Forward design that provides greater visibility than conventional cabs to the standard Bluetooth capable radio, Isuzu trucks meet your business and driving needs.",
+            "Offering eight (8) wheelbases from 152 to 248-in., the diesel-powered FTR can accommodate bodies ranging from 14 to 30 ft. and has a GVWR of 25,950 lbs.",
+            "*See your authorized Isuzu dealer for warranty details",
+            "EXTENDED WARRANTY",
+            "Cylinder block, cylinder head, oil pan, oil cooler, thermostat housing, flywheel, intake manifolds, and the following internal parts: oil pump, pistons with rings, liners, crankshaft and bearings, connecting rods and bearings, head bolts, cylinder head gasket, intake and exhaust valves, rocker arm assembly, camshaft and bearings.",
+            "Please note that the transmission and the steer & drive axle plus drive shaft are NOT covered. However, Allison may offer an extended transmission warranty. Please contact your local Allison distributor for details.",
+            "EXTENDED WARRANTY PLUS",
+            "60/200,000",
+            "Fuel injectors, fuel pressure limiter, fuel injection pump, fuel rail pressure sensor, fuel temperature sensor, common fuel rail and high pressure lines.",
+            "Starter, starter drive assembly, starter motor assembly.",
+            "AFTERTREATMENT COMPONENTS",
+            "*See your authorized Isuzu dealer for extended warranty details"
+        ],
+        "attachments": [
+            {
+                "attachmentDescription": "product_brochure_1",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/ftr_specs_brochure.pdf"
+            },
+            {
+                "attachmentDescription": "product_brochure_2",
+                "attachmentLocation": "https://www.isuzucv.com/pdfs/ftr_brochure.pdf"
+            }
+        ],
+        "productUri": "https://www.isuzucv.com/en/fseries/index",
+        "videos": [
+            {
+                "src": "https://www.youtube.com/embed/MpcmYLIokXM?rel=0"
+            }
+        ]
+    }
+]
